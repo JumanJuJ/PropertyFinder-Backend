@@ -1,0 +1,2601 @@
+city,price,livingArea,lotSizeUnit,lotSize,propertyType,yearBuilt
+New York,2695000,3885,acres,0.27,singleFamily,1998
+New York,599000,1330,squareFeet,2451.0,singleFamily,1988
+New York,769000,1144,squareFeet,4791.6,singleFamily,1925
+New York,699000,1452,squareFeet,2500.0,multiFamily,1930
+New York,1098000,2093,squareFeet,2500.0,multiFamily,1940
+New York,399999,924,squareFeet,924.0,singleFamily,1983
+New York,1599500,2730,squareFeet,5662.8,singleFamily,2025
+New York,699000,1680,squareFeet,2613.6,singleFamily,1980
+New York,499000,960,squareFeet,4000.0,singleFamily,1950
+New York,18000000,33000,acres,1.58,singleFamily,2000
+New York,1190000,2516,squareFeet,6969.6,singleFamily,1980
+New York,885000,2271,squareFeet,1792.0,multiFamily,1960
+New York,899000,2583,squareFeet,2500.0,singleFamily,1985
+New York,818000,1872,squareFeet,3920.4,singleFamily,1920
+New York,1099000,2208,squareFeet,4356.0,singleFamily,1978
+New York,639000,2700,squareFeet,4750.0,singleFamily,1949
+Los Angeles,1699000,2382,squareFeet,6316.0,singleFamily,1963
+Los Angeles,1700000,2371,squareFeet,6403.0,singleFamily,1928
+Los Angeles,1979000,2610,acres,0.5143021120293848,singleFamily,1922
+Los Angeles,799999,1734,squareFeet,6534.0,singleFamily,1954
+Los Angeles,899000,1998,squareFeet,7502.0,singleFamily,1954
+Los Angeles,825000,1400,squareFeet,7863.0,singleFamily,1959
+Los Angeles,800000,2391,squareFeet,4133.0,singleFamily,2020
+Los Angeles,695000,2033,squareFeet,6052.0,singleFamily,1951
+Los Angeles,200000,7896,squareFeet,6372.828,multiFamily,1926
+Los Angeles,177000000,35000,acres,1.2218,singleFamily,
+Los Angeles,1299000,1655,squareFeet,7374.708,singleFamily,1949
+Los Angeles,699900,1747,acres,1.68,condo,1970
+Los Angeles,799500,1275,squareFeet,7202.0,singleFamily,1955
+Los Angeles,1699000,1938,squareFeet,7814.0,singleFamily,1952
+Los Angeles,1136900,1914,squareFeet,5000.0,singleFamily,1928
+Los Angeles,3495000,3426,squareFeet,7775.46,singleFamily,1955
+Los Angeles,1299000,2220,squareFeet,10406.484,singleFamily,1959
+Los Angeles,2599000,2886,acres,0.2787,singleFamily,1940
+Los Angeles,2999000,3668,squareFeet,5536.476,singleFamily,2019
+Los Angeles,2749000,3000,squareFeet,6372.828,singleFamily,1937
+Los Angeles,1200000,1560,squareFeet,6160.0,singleFamily,1955
+Los Angeles,1200000,1999,squareFeet,6917.0,singleFamily,1950
+Chicago,515000,3000,squareFeet,2456.784,singleFamily,
+Chicago,2875000,4455,squareFeet,3149.388,singleFamily,1895
+Chicago,165000,1642,squareFeet,3125.0,singleFamily,1969
+Chicago,699900,2198,squareFeet,8250.0,singleFamily,1931
+Chicago,69000,1000,squareFeet,3125.0,singleFamily,1900
+Chicago,1179000,2017,squareFeet,960.0,singleFamily,1901
+Chicago,495000,2200,squareFeet,3125.0,singleFamily,
+Chicago,99999,880,squareFeet,5418.0,singleFamily,1953
+Houston,337000,2957,squareFeet,9448.164,singleFamily,1976
+Houston,85000,908,acres,3.0289,townhome,1980
+Houston,374000,2088,squareFeet,6403.32,singleFamily,1971
+Houston,450000,2489,squareFeet,1637.856,singleFamily,2021
+Houston,280000,3560,squareFeet,8681.508,singleFamily,1982
+Houston,228000,2349,squareFeet,5998.212,singleFamily,2025
+Houston,395000,3176,squareFeet,8468.064,singleFamily,1982
+Houston,899000,1601,squareFeet,7501.032,singleFamily,1912
+Houston,449000,3642,squareFeet,9600.624,singleFamily,1980
+Houston,215000,1642,acres,0.2778,singleFamily,1968
+Houston,230000,1560,squareFeet,6930.396,singleFamily,1983
+Houston,585000,2674,squareFeet,10288.872,singleFamily,1969
+Houston,315950,2408,squareFeet,9317.484,singleFamily,1971
+Houston,445000,4900,squareFeet,9679.032,singleFamily,1983
+Houston,244900,1378,squareFeet,7801.596,singleFamily,1981
+Houston,250000,2312,squareFeet,9134.0,singleFamily,1970
+Houston,450000,1551,squareFeet,9300.06,singleFamily,1957
+Houston,6500000,7232,acres,0.6829999999999999,singleFamily,2022
+Houston,249000,2184,squareFeet,6660.324,singleFamily,1950
+Houston,419000,3300,squareFeet,7840.8,singleFamily,1975
+Houston,1175000,4431,acres,0.5,singleFamily,1967
+Houston,390000,3751,squareFeet,9199.872,singleFamily,1972
+Houston,570000,5073,acres,0.2755,singleFamily,1983
+Houston,228000,1549,squareFeet,4199.184,singleFamily,2025
+Houston,275900,2203,squareFeet,8751.204,singleFamily,1966
+Philadelphia,325000,1427,squareFeet,1299.0,townhome,1900
+Philadelphia,458000,1979,acres,0.2515381083562902,singleFamily,1965
+Philadelphia,400000,1392,squareFeet,1008.0,townhome,1925
+Philadelphia,319000,1132,squareFeet,1633.0,townhome,1955
+Philadelphia,440000,4701,squareFeet,9300.0,singleFamily,1925
+Philadelphia,214900,884,squareFeet,480.0,townhome,1920
+Philadelphia,450000,1751,squareFeet,1017.0,singleFamily,1925
+Philadelphia,375000,1846,squareFeet,5541.0,singleFamily,1980
+Philadelphia,125000,1040,squareFeet,798.0,townhome,1920
+Philadelphia,499999,1760,squareFeet,1801.0,multiFamily,1960
+Philadelphia,825000,2537,squareFeet,4356.0,singleFamily,1880
+Philadelphia,259900,1404,squareFeet,2250.0,singleFamily,1943
+Philadelphia,395000,2190,squareFeet,1742.0,townhome,1965
+Philadelphia,109900,1110,squareFeet,1656.0,townhome,1925
+Philadelphia,450000,1680,squareFeet,2511.0,singleFamily,1965
+Philadelphia,349000,2628,squareFeet,4256.0,singleFamily,1925
+Philadelphia,159900,1188,squareFeet,967.0,townhome,1920
+Philadelphia,225000,1276,squareFeet,1880.0,singleFamily,1940
+Philadelphia,400000,1704,squareFeet,2908.0,singleFamily,1928
+Philadelphia,199900,975,squareFeet,1110.0,singleFamily,1890
+Philadelphia,1885000,3910,squareFeet,1563.0,townhome,1920
+Philadelphia,475000,1800,squareFeet,2057.0,singleFamily,1920
+Philadelphia,699000,5175,acres,0.2867998163452709,singleFamily,1960
+Philadelphia,315000,1800,squareFeet,1895.0,townhome,1968
+Phoenix,735000,1782,squareFeet,6260.0,singleFamily,1976
+Phoenix,512500,1732,squareFeet,7169.0,singleFamily,1962
+Phoenix,387500,1558,squareFeet,4166.0,singleFamily,2018
+Phoenix,615000,2431,squareFeet,8938.0,singleFamily,1970
+Phoenix,1300000,2242,squareFeet,6490.0,singleFamily,2023
+Phoenix,260000,1336,squareFeet,6376.0,singleFamily,1954
+Phoenix,865000,2288,squareFeet,9889.0,singleFamily,1972
+Phoenix,380000,1600,squareFeet,4950.0,singleFamily,2004
+Phoenix,675000,2132,squareFeet,6503.0,singleFamily,2001
+Phoenix,600000,1316,squareFeet,8764.0,singleFamily,1904
+Phoenix,350000,2103,squareFeet,3750.0,singleFamily,2004
+Phoenix,622000,3101,acres,0.522910927456382,singleFamily,1994
+Phoenix,425000,1800,squareFeet,8184.0,singleFamily,1983
+Phoenix,375000,1432,squareFeet,6963.0,singleFamily,1986
+Phoenix,517500,1948,squareFeet,5963.0,singleFamily,2021
+Phoenix,1999999,4822,acres,0.3953397612488522,singleFamily,2008
+Phoenix,750000,2134,squareFeet,10129.0,singleFamily,1977
+Phoenix,690000,2253,acres,0.6774334251606979,singleFamily,1951
+Phoenix,1175000,3495,acres,0.3988751147842057,singleFamily,1976
+Phoenix,285000,1200,acres,0.2930211202938476,manufactured,1970
+Phoenix,575000,1948,squareFeet,7505.0,singleFamily,1978
+Phoenix,649900,2224,squareFeet,7993.0,singleFamily,1987
+Phoenix,375000,2139,squareFeet,7200.0,singleFamily,2006
+Phoenix,398000,1452,squareFeet,6551.0,singleFamily,1969
+San Antonio,445000,4416,acres,0.29500000000000004,singleFamily,1993
+San Antonio,325000,2400,squareFeet,6708.24,singleFamily,1994
+San Antonio,399000,2538,squareFeet,8712.0,singleFamily,2015
+San Antonio,377000,2678,squareFeet,7143.84,singleFamily,2023
+San Antonio,550000,2935,squareFeet,10105.92,singleFamily,2006
+San Antonio,159999,1436,squareFeet,7143.84,singleFamily,1986
+San Antonio,444900,2483,squareFeet,9844.56,singleFamily,1984
+San Antonio,587500,3257,squareFeet,7187.4,singleFamily,2018
+San Antonio,828900,3455,squareFeet,7187.4,singleFamily,2016
+San Antonio,349900,2540,squareFeet,10541.52,singleFamily,1979
+San Antonio,450000,3224,squareFeet,8450.64,singleFamily,2006
+San Antonio,135900,1740,squareFeet,6098.4,singleFamily,1986
+San Antonio,699000,2418,acres,0.25,singleFamily,1954
+San Antonio,675000,3165,squareFeet,10193.04,singleFamily,2006
+San Antonio,315000,2477,squareFeet,5662.8,singleFamily,2007
+San Antonio,225000,1135,squareFeet,4617.36,singleFamily,2003
+San Antonio,209900,2143,squareFeet,7666.56,singleFamily,1982
+San Antonio,109999,840,squareFeet,6838.92,singleFamily,1915
+San Antonio,330000,1601,squareFeet,5532.12,singleFamily,2004
+San Antonio,418000,3478,squareFeet,7230.96,singleFamily,2001
+San Antonio,189900,2018,squareFeet,5749.92,singleFamily,2005
+San Antonio,275000,1685,squareFeet,8276.4,singleFamily,1969
+San Antonio,320000,2226,squareFeet,2744.28,singleFamily,2007
+San Antonio,320000,2268,squareFeet,10280.16,singleFamily,2007
+San Antonio,305000,2424,squareFeet,7535.88,singleFamily,2003
+San Diego,699999,1735,squareFeet,5662.8,singleFamily,1968
+San Diego,889900,2021,squareFeet,4791.6,singleFamily,2005
+San Diego,2198300,2539,squareFeet,4791.6,singleFamily,1985
+San Diego,1389000,1699,acres,0.32999999999999996,singleFamily,1963
+San Diego,799000,2483,squareFeet,4791.6,singleFamily,1945
+San Diego,19800000,8927,acres,0.49000000000000005,singleFamily,1995
+San Diego,1785000,2412,squareFeet,7405.2,singleFamily,1972
+San Diego,250000,1656,acres,42.88,manufactured,1970
+San Diego,499950,1050,squareFeet,6500.0,singleFamily,1956
+San Diego,1129000,1309,acres,0.27,singleFamily,1960
+San Diego,1695000,1624,squareFeet,5662.8,singleFamily,1929
+San Diego,575000,1462,squareFeet,1742.4,singleFamily,1972
+San Diego,1025000,1720,squareFeet,10200.0,singleFamily,1963
+San Diego,705000,1566,squareFeet,5662.8,singleFamily,1986
+San Diego,3050000,2647,squareFeet,5227.2,singleFamily,1916
+San Diego,750000,1136,squareFeet,5662.8,singleFamily,1929
+San Diego,849999,2048,squareFeet,6969.6,singleFamily,1985
+Dallas,985000,3609,acres,0.29,singleFamily,1995
+Dallas,479900,2076,squareFeet,8058.6,singleFamily,1958
+Dallas,690000,2404,squareFeet,8407.08,singleFamily,1976
+Dallas,395000,2000,squareFeet,7535.88,singleFamily,2024
+Dallas,280000,1111,acres,0.984,condo,1925
+Dallas,249900,1440,squareFeet,8189.28,singleFamily,1955
+Dallas,1175000,3630,squareFeet,9452.52,singleFamily,1977
+Dallas,1050000,2793,squareFeet,5488.56,singleFamily,2000
+Dallas,4475000,8343,acres,0.42000000000000004,singleFamily,2023
+Dallas,995000,2370,acres,0.28200000000000003,singleFamily,1953
+Dallas,10470340,11858,acres,0.96,singleFamily,2023
+Dallas,64000000,27092,acres,15.687,singleFamily,1938
+Dallas,378000,2163,squareFeet,7710.12,singleFamily,2022
+Dallas,175000,1626,squareFeet,7884.36,singleFamily,1966
+Dallas,340000,1344,acres,0.41,condo,1980
+Dallas,770000,2379,acres,0.462,singleFamily,1957
+Dallas,764900,1434,squareFeet,7013.16,singleFamily,1940
+Dallas,129000,1226,squareFeet,3310.56,singleFamily,2000
+Dallas,449000,2153,squareFeet,8276.4,singleFamily,1989
+Dallas,370000,2200,squareFeet,7666.56,singleFamily,2024
+Dallas,2295000,4557,squareFeet,7448.76,singleFamily,2014
+Dallas,689900,2267,acres,0.27999999999999997,singleFamily,1960
+Dallas,279900,1762,acres,11.051,condo,1968
+Dallas,1300000,2919,acres,0.317,singleFamily,1970
+Dallas,9500000,8471,acres,0.813,singleFamily,2025
+San Jose,1499000,1792,squareFeet,5323.0,singleFamily,2001
+San Jose,999000,1040,squareFeet,4800.0,singleFamily,1926
+San Jose,2898000,2619,squareFeet,6720.0,singleFamily,2012
+San Jose,1148888,1300,squareFeet,5662.8,singleFamily,1971
+San Jose,1299000,1446,squareFeet,6480.0,singleFamily,1973
+San Jose,999000,1628,squareFeet,5649.732,singleFamily,1927
+San Jose,2499000,2647,squareFeet,7392.0,singleFamily,1969
+San Jose,2650000,1592,squareFeet,8125.0,singleFamily,1958
+San Jose,1948000,1672,squareFeet,6180.0,singleFamily,1960
+San Jose,1460000,1201,squareFeet,5616.0,singleFamily,1955
+San Jose,1450000,1472,squareFeet,5616.0,singleFamily,1911
+San Jose,875000,1408,squareFeet,6348.0,multiFamily,1925
+San Jose,880000,1015,squareFeet,9408.96,townhome,1964
+San Jose,899999,1189,squareFeet,5520.0,singleFamily,1915
+San Jose,1349000,1470,squareFeet,2500.0,singleFamily,1985
+San Jose,888520,1293,squareFeet,8040.0,singleFamily,1976
+San Jose,1998000,2083,squareFeet,8050.0,singleFamily,1969
+San Jose,990000,1198,squareFeet,5758.632,singleFamily,1959
+San Jose,2198000,2507,squareFeet,5068.0,singleFamily,1998
+San Jose,2288000,2314,squareFeet,6968.0,singleFamily,1998
+San Jose,1750000,1593,squareFeet,6800.0,singleFamily,1968
+San Jose,1649000,1798,squareFeet,6900.0,singleFamily,1979
+San Jose,1888520,1775,acres,0.2746097337006428,singleFamily,1952
+San Jose,1749500,1620,acres,0.4035812672176309,singleFamily,1991
+Austin,389000,1220,squareFeet,7000.092,singleFamily,1972
+Austin,1649999,3455,acres,0.34409999999999996,singleFamily,1980
+Austin,699900,1800,acres,1.8328,singleFamily,1980
+Austin,545000,2426,squareFeet,7862.58,singleFamily,1994
+Austin,3410000,4741,acres,0.3,singleFamily,1972
+Austin,268000,1350,squareFeet,8041.176,singleFamily,2021
+Austin,330364,1124,squareFeet,1293.732,townhome,2025
+Austin,599900,1979,squareFeet,10410.84,singleFamily,2011
+Austin,439000,2612,squareFeet,7514.1,singleFamily,2017
+Austin,200000,1621,squareFeet,8951.58,singleFamily,1981
+Austin,299000,2016,acres,2.005,manufactured,2001
+Austin,299000,1422,squareFeet,8494.2,singleFamily,1964
+Austin,205000,1050,squareFeet,7405.2,singleFamily,1995
+Austin,569900,1891,squareFeet,10702.692,singleFamily,1983
+Austin,775000,3350,squareFeet,8398.368,singleFamily,2008
+Austin,550000,1738,acres,1.004,singleFamily,1980
+Austin,1495000,2019,acres,0.2755,singleFamily,1978
+Austin,13900000,15394,acres,20.0,singleFamily,2004
+Austin,289900,2160,squareFeet,10733.184,singleFamily,1977
+Austin,250000,2035,squareFeet,5275.116,singleFamily,1999
+Austin,410000,992,squareFeet,7736.256,singleFamily,1967
+Austin,650000,996,squareFeet,6211.656,singleFamily,1936
+Austin,505000,1615,squareFeet,8790.408,singleFamily,1975
+Indianapolis,279900,1897,acres,0.32,singleFamily,1971
+Indianapolis,479990,4618,acres,0.33999999999999997,singleFamily,1957
+Indianapolis,1750000,3466,squareFeet,8712.0,singleFamily,1987
+Indianapolis,650000,3028,squareFeet,6534.0,singleFamily,2006
+Indianapolis,200000,1629,acres,0.61,singleFamily,1959
+Indianapolis,479900,4478,acres,0.41,singleFamily,1965
+Indianapolis,220000,1216,squareFeet,8712.0,singleFamily,1959
+Indianapolis,165000,1188,squareFeet,7840.8,singleFamily,2003
+Indianapolis,265000,1612,acres,0.35,singleFamily,1989
+Indianapolis,295000,1988,acres,0.33999999999999997,singleFamily,1981
+Indianapolis,225000,1041,squareFeet,6969.6,singleFamily,1998
+Indianapolis,270000,2352,squareFeet,10018.8,singleFamily,1974
+Indianapolis,239900,3270,acres,0.41,singleFamily,1941
+Indianapolis,250000,1464,acres,0.45999999999999996,singleFamily,1958
+Indianapolis,379000,2103,squareFeet,5662.8,singleFamily,1929
+Indianapolis,289900,2829,acres,0.33999999999999997,singleFamily,1948
+Indianapolis,150000,,acres,0.31,multiFamily,1910
+Indianapolis,350000,2060,acres,0.8,singleFamily,1987
+Indianapolis,450000,4948,acres,0.45999999999999996,singleFamily,1934
+Indianapolis,399990,2660,acres,0.42000000000000004,singleFamily,1975
+Indianapolis,174900,1740,squareFeet,10454.4,singleFamily,1972
+Indianapolis,264900,1625,acres,0.35,singleFamily,1959
+Indianapolis,489999,2240,squareFeet,2178.0,singleFamily,2019
+Indianapolis,325000,2340,squareFeet,6098.4,singleFamily,1910
+Indianapolis,234000,1292,squareFeet,5662.8,singleFamily,1997
+Jacksonville,425000,1483,squareFeet,6098.4,singleFamily,1923
+Jacksonville,375000,2302,acres,0.29,singleFamily,1993
+Jacksonville,545000,2092,squareFeet,9147.6,singleFamily,1980
+Jacksonville,699000,2787,acres,0.51,singleFamily,1949
+Jacksonville,799000,3206,acres,0.4,singleFamily,1982
+Jacksonville,715000,3273,squareFeet,9147.6,singleFamily,2004
+Jacksonville,395000,1742,acres,0.32999999999999996,singleFamily,1978
+Jacksonville,340000,1706,squareFeet,10454.4,singleFamily,1979
+Jacksonville,250000,1710,squareFeet,8712.0,singleFamily,1993
+Jacksonville,25000,1028,squareFeet,7840.8,singleFamily,1961
+Jacksonville,210000,980,squareFeet,10454.4,singleFamily,1938
+Jacksonville,288000,2209,acres,0.27999999999999997,singleFamily,1963
+Jacksonville,575000,2711,squareFeet,9583.2,singleFamily,2008
+Jacksonville,100000,1761,squareFeet,5662.8,singleFamily,2009
+Jacksonville,275000,2344,squareFeet,5662.8,singleFamily,1953
+Jacksonville,389000,2114,acres,0.32999999999999996,singleFamily,2022
+Jacksonville,585000,2919,squareFeet,6969.6,singleFamily,2013
+Jacksonville,319900,1500,squareFeet,10454.4,singleFamily,2023
+Jacksonville,299500,1712,acres,1.8,singleFamily,1982
+Jacksonville,365000,1776,acres,0.25,singleFamily,1963
+Jacksonville,328000,1900,squareFeet,6969.6,singleFamily,2003
+Jacksonville,50000,1260,squareFeet,6534.0,singleFamily,1916
+Jacksonville,160000,1104,squareFeet,5662.8,manufactured,1976
+Jacksonville,155000,1530,acres,0.27999999999999997,singleFamily,1960
+Jacksonville,325000,1268,squareFeet,9147.6,singleFamily,1959
+San Francisco,1349000,1168,acres,2.8212,condo,2012
+San Francisco,1495000,2285,squareFeet,2060.388,singleFamily,1929
+San Francisco,848000,1714,squareFeet,2495.988,singleFamily,1923
+San Francisco,1195000,1329,acres,1.1191,condo,2006
+San Francisco,1799000,1398,squareFeet,1787.0,condo,1911
+San Francisco,1459000,2210,squareFeet,2461.14,singleFamily,1905
+San Francisco,1195000,1705,squareFeet,2966.436,singleFamily,1941
+San Francisco,1788888,2067,squareFeet,2453.0,singleFamily,1937
+San Francisco,998000,1187,squareFeet,2186.0,singleFamily,1946
+San Francisco,359466,1109,acres,1.0812,condo,2009
+San Francisco,995000,835,squareFeet,2735.568,singleFamily,1925
+San Francisco,1395000,1450,squareFeet,2500.344,condo,1907
+San Francisco,799000,1168,squareFeet,2500.0,singleFamily,1900
+San Francisco,1098000,1450,squareFeet,3001.284,singleFamily,1927
+San Francisco,995000,1660,squareFeet,2374.02,singleFamily,1939
+San Francisco,2195000,3825,squareFeet,2247.696,multiFamily,1911
+San Francisco,14888000,5223,acres,1.7311,condo,2016
+San Francisco,6395000,3715,squareFeet,3720.024,singleFamily,1914
+San Francisco,825000,1175,squareFeet,6993.0,condo,1972
+San Francisco,1650000,1395,squareFeet,3545.784,singleFamily,1926
+San Francisco,899000,1515,squareFeet,3358.0,singleFamily,1924
+San Francisco,998000,1534,squareFeet,2482.92,singleFamily,1941
+San Francisco,332652,1180,squareFeet,9453.0,condo,1906
+San Francisco,1495000,3132,squareFeet,3327.984,multiFamily,1900
+San Francisco,998888,1328,squareFeet,2500.344,singleFamily,1946
+Columbus,350000,2350,acres,0.45,singleFamily,1959
+Columbus,350000,1900,squareFeet,6534.0,singleFamily,1999
+Columbus,184900,888,squareFeet,8276.4,singleFamily,1957
+Columbus,689900,2207,squareFeet,10018.8,singleFamily,1949
+Columbus,375000,1534,squareFeet,7405.2,singleFamily,1979
+Columbus,315000,1344,acres,0.38,singleFamily,1986
+Columbus,325000,1435,squareFeet,6534.0,singleFamily,1987
+Columbus,200000,1500,squareFeet,6534.0,singleFamily,1957
+Columbus,315000,2132,squareFeet,5662.8,singleFamily,2003
+Columbus,1195000,4139,acres,0.74,singleFamily,1920
+Columbus,369900,1540,squareFeet,2613.6,singleFamily,1900
+Columbus,197600,1787,squareFeet,6969.6,singleFamily,1999
+Columbus,225000,1064,squareFeet,871.2,condo,1988
+Columbus,285000,1434,squareFeet,6969.6,singleFamily,2004
+Columbus,211900,1819,squareFeet,5227.2,singleFamily,1942
+Columbus,335000,1020,squareFeet,6098.4,singleFamily,1942
+Columbus,239900,979,squareFeet,5662.8,singleFamily,1953
+Columbus,425000,1600,squareFeet,4356.0,singleFamily,2019
+Columbus,319900,1950,acres,0.35,singleFamily,1956
+Columbus,294900,2316,squareFeet,10454.4,singleFamily,1978
+Columbus,348900,1535,squareFeet,4791.6,singleFamily,1930
+Columbus,399900,1853,squareFeet,7405.2,singleFamily,1993
+Columbus,479900,1720,squareFeet,3484.8,singleFamily,1920
+Columbus,415000,1027,squareFeet,5227.2,singleFamily,1947
+Columbus,519999,2755,squareFeet,8276.4,singleFamily,2000
+Charlotte,430000,2331,acres,0.27,singleFamily,1991
+Charlotte,650000,3463,acres,0.33,singleFamily,1993
+Charlotte,275000,2888,acres,0.241,singleFamily,2006
+Charlotte,410000,2527,acres,0.18,singleFamily,2004
+Charlotte,499900,1738,acres,0.104,singleFamily,2004
+Charlotte,250000,1620,acres,0.098,singleFamily,1996
+Charlotte,650000,1852,acres,0.4,singleFamily,1967
+Charlotte,795000,1569,acres,0.31,singleFamily,1954
+Charlotte,600000,1420,acres,4.0,singleFamily,1992
+Charlotte,825000,3183,acres,0.37,singleFamily,1987
+Charlotte,329000,1608,acres,0.28,singleFamily,1963
+Charlotte,1750000,4598,acres,0.254,singleFamily,1987
+Charlotte,1725000,3365,acres,0.8,singleFamily,1962
+Charlotte,499900,1603,acres,0.459,singleFamily,1986
+Charlotte,465000,1682,acres,0.27,singleFamily,1958
+Charlotte,550000,3300,acres,0.19,singleFamily,2018
+Charlotte,2400000,3782,acres,0.32,singleFamily,1936
+Charlotte,2150000,3936,acres,0.461,singleFamily,2017
+Charlotte,310000,1161,acres,0.22,singleFamily,1961
+Charlotte,840000,2690,acres,0.3,singleFamily,1984
+Charlotte,445000,2355,acres,0.14,singleFamily,2005
+Charlotte,375000,1562,acres,0.29,singleFamily,1991
+Fort Worth,680000,3862,squareFeet,10541.52,singleFamily,2020
+Fort Worth,75000,3458,squareFeet,6969.6,singleFamily,2008
+Fort Worth,100000,1881,squareFeet,5749.92,singleFamily,2023
+Fort Worth,175000,1399,squareFeet,9016.92,singleFamily,1952
+Fort Worth,75000,1775,squareFeet,5227.2,singleFamily,2004
+Fort Worth,219500,1829,acres,0.2828,singleFamily,1970
+Fort Worth,396000,2718,squareFeet,5488.56,singleFamily,2007
+Fort Worth,290000,1689,squareFeet,10497.96,singleFamily,1960
+Fort Worth,269900,1783,squareFeet,9801.0,singleFamily,1962
+Fort Worth,305000,1614,squareFeet,7975.836,singleFamily,2002
+Fort Worth,275000,2160,squareFeet,10018.8,singleFamily,1976
+Fort Worth,249950,1684,squareFeet,6490.44,singleFamily,2019
+Fort Worth,410000,2014,squareFeet,9931.68,singleFamily,2014
+Fort Worth,399900,2003,squareFeet,5488.56,singleFamily,2016
+Fort Worth,280000,1402,squareFeet,5749.92,singleFamily,1987
+Fort Worth,1490000,5081,acres,1.117,singleFamily,2015
+Fort Worth,519900,3359,acres,0.278,singleFamily,1979
+Fort Worth,235000,1082,squareFeet,7666.56,singleFamily,2003
+Fort Worth,215000,1711,squareFeet,8712.0,singleFamily,1982
+Fort Worth,290000,2948,squareFeet,6795.36,singleFamily,1986
+Fort Worth,299900,2157,squareFeet,6534.0,singleFamily,2015
+Fort Worth,317900,1600,squareFeet,5000.688,singleFamily,2025
+Fort Worth,226000,1372,squareFeet,7013.16,singleFamily,1984
+Fort Worth,287000,2318,squareFeet,8842.68,singleFamily,1972
+Fort Worth,305000,1316,squareFeet,5488.56,singleFamily,2022
+Detroit,1250000,35029,acres,2.06,singleFamily,1920
+Detroit,1899000,7056,acres,0.39,singleFamily,1915
+Detroit,215000,1515,squareFeet,6534.0,singleFamily,1936
+Detroit,499000,2886,squareFeet,6098.4,singleFamily,1915
+Detroit,185000,2256,squareFeet,6534.0,multiFamily,1941
+Detroit,450000,4138,acres,0.25,singleFamily,1924
+Detroit,574900,4300,acres,0.39,singleFamily,1910
+Detroit,7000000,24000,acres,4.76,singleFamily,1926
+Detroit,160000,3150,squareFeet,5227.2,singleFamily,1935
+Detroit,99900,1775,squareFeet,3920.4,singleFamily,1936
+Detroit,139900,2150,squareFeet,5227.2,singleFamily,1959
+Detroit,10000,2427,squareFeet,3000.0,singleFamily,1910
+Detroit,1,1716,squareFeet,3920.4,singleFamily,1926
+Detroit,180000,1263,squareFeet,5227.2,singleFamily,1930
+Detroit,285000,1969,squareFeet,4356.0,singleFamily,1928
+Detroit,799000,4475,squareFeet,8712.0,singleFamily,1924
+Detroit,139900,1181,squareFeet,4356.0,singleFamily,1951
+Detroit,100000,1264,squareFeet,5227.2,singleFamily,1949
+Detroit,1245400,8173,acres,0.45,singleFamily,1913
+Detroit,150000,1625,squareFeet,3920.4,singleFamily,1927
+Detroit,154900,1690,squareFeet,4791.6,singleFamily,1940
+Detroit,180000,2300,squareFeet,4791.6,multiFamily,1925
+Detroit,249000,2552,squareFeet,3920.4,multiFamily,1909
+Detroit,229900,2100,squareFeet,3920.4,singleFamily,1930
+El Paso,270000,4060,squareFeet,8276.4,singleFamily,1969
+El Paso,199000,1316,squareFeet,6098.4,singleFamily,1971
+El Paso,197770,1375,squareFeet,8712.0,multiFamily,1941
+El Paso,235000,1984,squareFeet,5662.8,singleFamily,2010
+El Paso,759000,4583,acres,0.42000000000000004,singleFamily,1954
+El Paso,279000,1994,squareFeet,3920.4,townhome,1981
+El Paso,219975,1383,squareFeet,6534.0,singleFamily,1977
+El Paso,260000,1356,squareFeet,7840.8,singleFamily,1986
+El Paso,485000,2503,squareFeet,8276.4,singleFamily,2002
+El Paso,249000,1439,squareFeet,5662.8,singleFamily,1994
+El Paso,335000,2266,squareFeet,9583.2,singleFamily,1966
+El Paso,405000,2586,squareFeet,8276.4,singleFamily,1995
+El Paso,238000,1449,squareFeet,4791.6,singleFamily,2019
+El Paso,327000,2679,squareFeet,5227.2,singleFamily,2011
+El Paso,179999,1036,squareFeet,5227.2,singleFamily,2000
+El Paso,315000,2605,squareFeet,6534.0,singleFamily,2003
+El Paso,399990,2480,squareFeet,9583.2,singleFamily,2010
+El Paso,368500,2123,squareFeet,6534.0,singleFamily,2018
+El Paso,649000,3910,acres,0.32999999999999996,singleFamily,1978
+El Paso,410000,2155,squareFeet,9147.6,singleFamily,1999
+El Paso,225000,1378,squareFeet,6098.4,singleFamily,1993
+El Paso,219999,1686,squareFeet,8276.4,singleFamily,1980
+El Paso,259999,1972,squareFeet,5227.2,singleFamily,1994
+El Paso,285000,2037,squareFeet,10454.4,singleFamily,1961
+El Paso,175000,1756,squareFeet,9583.2,singleFamily,1950
+Memphis,499000,,acres,0.48,singleFamily,1974
+Memphis,395000,,acres,0.42000000000000004,singleFamily,1952
+Memphis,495000,,acres,0.38,singleFamily,1980
+Memphis,679000,,acres,0.7,singleFamily,1951
+Memphis,349000,,acres,0.25,singleFamily,1958
+Memphis,125000,,squareFeet,9583.2,singleFamily,1960
+Memphis,420000,,acres,0.65,singleFamily,1926
+Memphis,285900,,acres,0.27,singleFamily,1986
+Memphis,249000,,squareFeet,3049.2,singleFamily,2007
+Memphis,129900,,squareFeet,3920.4,singleFamily,2004
+Memphis,310000,,squareFeet,10454.4,singleFamily,1956
+Memphis,5000,,acres,2.09,land,
+Memphis,185000,,acres,0.25,singleFamily,1971
+Memphis,1000000,,acres,100.64,singleFamily,1955
+Memphis,285000,,squareFeet,871.2,condo,2007
+Memphis,400000,,squareFeet,5662.8,singleFamily,1943
+Memphis,180000,,acres,0.8699999999999999,singleFamily,1954
+Memphis,249901,,acres,0.3,singleFamily,1957
+Memphis,332880,,squareFeet,10454.4,singleFamily,1955
+Memphis,150000,,squareFeet,10454.4,singleFamily,1980
+Memphis,599000,,acres,0.38,singleFamily,1967
+Memphis,625000,,acres,3.35,singleFamily,1999
+Memphis,369900,,acres,0.8300000000000001,singleFamily,1922
+Memphis,50000,,squareFeet,9583.2,singleFamily,1911
+Memphis,439000,,acres,0.52,singleFamily,1987
+Seattle,1065000,2176,squareFeet,2456.784,singleFamily,1912
+Seattle,1395000,3140,squareFeet,4081.572,singleFamily,1924
+Seattle,1695000,2670,acres,0.2571,singleFamily,1936
+Seattle,2100000,3820,squareFeet,8481.132,singleFamily,1940
+Seattle,800000,1620,squareFeet,4569.444,singleFamily,1930
+Seattle,1299900,2070,squareFeet,6599.34,singleFamily,1948
+Seattle,719999,930,squareFeet,3201.66,singleFamily,1907
+Seattle,1250000,1720,squareFeet,6499.152,singleFamily,1995
+Seattle,1950000,4360,squareFeet,6120.18,singleFamily,1907
+Seattle,1479000,2360,squareFeet,7967.124,singleFamily,1946
+Seattle,950000,3340,squareFeet,4081.572,singleFamily,1925
+Seattle,425500,1730,squareFeet,5758.632,singleFamily,1907
+Seattle,1050000,1710,squareFeet,2500.344,singleFamily,1927
+Seattle,999500,2550,squareFeet,3419.46,singleFamily,1920
+Seattle,75000000,11786,acres,1.6258,singleFamily,2009
+Seattle,875000,1600,squareFeet,5449.356,singleFamily,1971
+Seattle,629000,1800,squareFeet,5898.024,singleFamily,1959
+Seattle,1095000,1720,squareFeet,4003.164,singleFamily,1927
+Seattle,1575000,2600,squareFeet,6050.484,singleFamily,1956
+Seattle,1099950,1740,squareFeet,2347.884,singleFamily,1996
+Seattle,1725000,2670,squareFeet,3676.464,singleFamily,1926
+Seattle,749950,1960,squareFeet,1999.404,singleFamily,1912
+Seattle,915000,1480,squareFeet,6072.264,singleFamily,1954
+Seattle,1640000,3077,squareFeet,2700.72,singleFamily,1907
+Seattle,579950,1000,squareFeet,2160.576,singleFamily,1949
+Denver,975000,2089,squareFeet,6250.0,singleFamily,1949
+Denver,675000,1898,squareFeet,6098.4,singleFamily,1940
+Denver,4350000,5708,acres,0.38,singleFamily,2025
+Denver,450000,2225,squareFeet,8276.4,singleFamily,1959
+Denver,625000,1352,squareFeet,3049.2,singleFamily,1906
+Denver,600000,1461,squareFeet,1620.0,singleFamily,1895
+Denver,399900,1419,squareFeet,4467.0,singleFamily,1962
+Denver,750000,1216,squareFeet,4510.0,singleFamily,1927
+Denver,1275000,2438,squareFeet,6610.0,singleFamily,1954
+Denver,1088589,2285,acres,0.27999999999999997,singleFamily,1963
+Denver,550000,1181,squareFeet,5780.0,singleFamily,1948
+Denver,749000,1893,squareFeet,4690.0,singleFamily,1932
+Denver,169000,1568,acres,55.1083,manufactured,1985
+Denver,665000,1667,squareFeet,6098.4,singleFamily,1923
+Denver,2195000,4396,squareFeet,6250.0,singleFamily,1906
+Denver,392500,1208,squareFeet,3165.0,singleFamily,2023
+Denver,1500000,3030,squareFeet,6250.0,singleFamily,1927
+Denver,1300000,3100,squareFeet,6534.0,singleFamily,1931
+Denver,5750000,7835,squareFeet,8920.0,singleFamily,1921
+Denver,1995000,4513,squareFeet,4791.6,singleFamily,1915
+Washington,8500000,6945,squareFeet,4701.0,singleFamily,1942
+Washington,375000,1215,squareFeet,2711.0,singleFamily,1941
+Washington,1499000,2415,squareFeet,7260.0,singleFamily,1960
+Washington,1098750,1053,squareFeet,1821.0,townhome,1900
+Washington,995000,1600,squareFeet,2500.0,singleFamily,1925
+Washington,1750000,3922,squareFeet,6375.0,singleFamily,1963
+Washington,1200000,2672,squareFeet,1190.0,townhome,1880
+Washington,1049000,2057,squareFeet,5100.0,singleFamily,1932
+Washington,1495000,2199,squareFeet,1497.0,townhome,1870
+Washington,925000,2088,squareFeet,999.0,townhome,1909
+Washington,750000,2328,squareFeet,1111.0,townhome,2018
+Washington,499999,1216,squareFeet,961.0,townhome,1910
+Washington,17950000,10000,acres,0.46565656565656566,singleFamily,1931
+Washington,447000,1290,squareFeet,2853.0,singleFamily,1914
+Washington,330000,1331,squareFeet,2694.0,singleFamily,1950
+Boston,999995,1588,squareFeet,6000.0,singleFamily,1950
+Boston,1200000,3776,squareFeet,7429.0,multiFamily,1900
+Boston,799000,574,squareFeet,574.0,condo,1900
+Boston,799000,1451,squareFeet,7527.0,singleFamily,1900
+Boston,1099000,2200,squareFeet,4800.0,singleFamily,1929
+Boston,795000,1912,squareFeet,5000.0,singleFamily,1940
+Boston,819000,2118,squareFeet,0.22,singleFamily,1935
+Boston,679900,1456,squareFeet,6103.0,singleFamily,1965
+Boston,1750000,4062,squareFeet,6987.0,multiFamily,1900
+Boston,679000,1824,squareFeet,5400.0,singleFamily,1958
+Boston,1199900,3444,squareFeet,2653.0,multiFamily,2013
+Boston,1999999,3387,squareFeet,7400.0,singleFamily,1920
+Boston,1500000,4386,squareFeet,5649.0,multiFamily,1900
+Boston,789999,2350,acres,0.2599862258953168,singleFamily,1900
+Boston,2700000,8162,acres,0.3002295684113866,multiFamily,1900
+Boston,1700000,2872,squareFeet,871.0,multiFamily,1899
+Boston,484000,1396,squareFeet,1396.0,condo,2004
+Boston,580000,1520,squareFeet,3000.0,singleFamily,1991
+Boston,2199000,3485,squareFeet,7686.0,singleFamily,1926
+Boston,849000,1380,squareFeet,8947.0,singleFamily,1940
+Baltimore,274900,1650,squareFeet,3030.0,townhome,1950
+Baltimore,399999,2006,acres,0.25826446280991733,singleFamily,1924
+Baltimore,226900,1320,squareFeet,2600.0,townhome,1949
+Baltimore,479000,2994,squareFeet,1089.0,townhome,2006
+Baltimore,365900,1230,acres,0.2603994490358127,singleFamily,1966
+Baltimore,260000,2133,acres,0.9579889807162535,singleFamily,1948
+Baltimore,489900,4278,squareFeet,9000.0,singleFamily,1920
+Baltimore,699000,2871,squareFeet,8084.0,singleFamily,1950
+Baltimore,395000,1861,squareFeet,6438.0,singleFamily,1926
+Baltimore,194900,0,squareFeet,1066.0,townhome,1920
+Baltimore,230000,2364,squareFeet,7248.0,singleFamily,1924
+Baltimore,300000,1600,squareFeet,1040.0,townhome,1910
+Baltimore,289900,2040,squareFeet,0.02,townhome,1948
+Baltimore,279900,1496,squareFeet,2762.0,multiFamily,1948
+Baltimore,12000,0,squareFeet,0.4,singleFamily,1900
+Baltimore,365000,2128,squareFeet,9374.0,singleFamily,1926
+Baltimore,385000,1848,squareFeet,9660.0,singleFamily,2004
+Baltimore,199900,2743,squareFeet,9479.0,singleFamily,1938
+Baltimore,299000,3142,acres,0.9640955004591368,singleFamily,1954
+Baltimore,149900,1360,squareFeet,1372.0,townhome,1920
+Baltimore,94999,1248,squareFeet,656.0,townhome,1920
+Baltimore,245000,1225,squareFeet,1307.0,townhome,1920
+Baltimore,55000,0,squareFeet,780.0,townhome,1915
+Oklahoma City,310000,2608,squareFeet,6202.944,singleFamily,1971
+Oklahoma City,2495000,7776,acres,0.44160000000000005,singleFamily,2008
+Oklahoma City,14995000,19000,acres,36.0,singleFamily,2018
+Oklahoma City,219900,1597,squareFeet,6969.6,singleFamily,1975
+Oklahoma City,249900,2338,squareFeet,8624.88,singleFamily,1969
+Oklahoma City,465000,3069,acres,0.4184,singleFamily,1977
+Oklahoma City,850000,3470,acres,0.26,singleFamily,1959
+Oklahoma City,295000,2871,squareFeet,4926.636,singleFamily,1972
+Oklahoma City,79900,1096,squareFeet,5405.796,singleFamily,1981
+Oklahoma City,435000,2888,acres,0.25339999999999996,singleFamily,1973
+Oklahoma City,199900,1548,acres,0.4626,singleFamily,1950
+Oklahoma City,195000,1808,squareFeet,6851.988,singleFamily,1939
+Oklahoma City,225000,1337,squareFeet,7858.224,singleFamily,1974
+Oklahoma City,35,3904,squareFeet,1437.48,townhome,2011
+Oklahoma City,279000,1795,squareFeet,9239.076,singleFamily,1948
+Oklahoma City,390000,2128,squareFeet,8568.252,singleFamily,1955
+Oklahoma City,289900,1539,acres,1.22,singleFamily,1962
+Oklahoma City,224000,1512,squareFeet,5702.004,singleFamily,1977
+Oklahoma City,235000,1625,squareFeet,8276.4,multiFamily,1971
+Oklahoma City,149900,1380,squareFeet,6329.268,singleFamily,1950
+Oklahoma City,219900,1334,squareFeet,7801.596,singleFamily,1940
+Oklahoma City,250000,2606,squareFeet,9448.164,singleFamily,1966
+Oklahoma City,415000,2357,acres,1.01,singleFamily,2007
+Oklahoma City,370000,2991,acres,0.27,singleFamily,1974
+Oklahoma City,325000,2856,squareFeet,5392.728,singleFamily,1972
+Louisville/Jefferson County,425000,2530,squareFeet,9147.6,singleFamily,1991
+Louisville/Jefferson County,310000,1568,acres,0.25,singleFamily,1998
+Louisville/Jefferson County,690000,5109,acres,0.25,singleFamily,2001
+Louisville/Jefferson County,697000,4072,squareFeet,6969.6,singleFamily,2021
+Louisville/Jefferson County,189000,960,squareFeet,7840.8,singleFamily,1959
+Louisville/Jefferson County,217000,1471,squareFeet,8712.0,singleFamily,1958
+Louisville/Jefferson County,699900,2822,acres,0.38,singleFamily,1962
+Louisville/Jefferson County,1,2121,acres,0.42000000000000004,singleFamily,1918
+Louisville/Jefferson County,400000,2176,acres,0.31,singleFamily,1948
+Louisville/Jefferson County,189900,982,squareFeet,3920.4,singleFamily,1910
+Louisville/Jefferson County,1,2327,acres,0.8400000000000001,singleFamily,1973
+Louisville/Jefferson County,425000,2730,squareFeet,6969.6,singleFamily,1925
+Louisville/Jefferson County,415000,2392,squareFeet,8712.0,singleFamily,1952
+Louisville/Jefferson County,250000,2940,acres,1.71,singleFamily,1967
+Louisville/Jefferson County,475000,2218,acres,1.37,singleFamily,1982
+Louisville/Jefferson County,375000,1983,squareFeet,9147.6,singleFamily,2000
+Louisville/Jefferson County,375000,2738,acres,0.32,singleFamily,1986
+Louisville/Jefferson County,215000,1040,squareFeet,10018.8,singleFamily,1964
+Louisville/Jefferson County,314900,1216,squareFeet,6534.0,singleFamily,1939
+Louisville/Jefferson County,628000,4250,acres,0.32999999999999996,singleFamily,1965
+Louisville/Jefferson County,285000,2387,acres,0.32999999999999996,singleFamily,1975
+Louisville/Jefferson County,310000,1796,squareFeet,9583.2,singleFamily,1966
+Louisville/Jefferson County,295000,1644,squareFeet,9147.6,singleFamily,1925
+Louisville/Jefferson County,220000,1078,squareFeet,4356.0,singleFamily,1900
+Louisville/Jefferson County,250000,2064,acres,0.39,singleFamily,1964
+Portland,440000,2316,squareFeet,3920.4,singleFamily,1922
+Portland,799900,2856,squareFeet,4356.0,singleFamily,2019
+Portland,1250000,2500,acres,0.32999999999999996,singleFamily,1962
+Portland,685000,2762,acres,0.7699999999999999,singleFamily,1964
+Portland,399000,988,squareFeet,7405.2,singleFamily,1963
+Portland,535000,2082,squareFeet,5227.2,singleFamily,1960
+Portland,825000,2584,squareFeet,10018.8,singleFamily,1956
+Portland,799000,2728,squareFeet,3920.4,singleFamily,1912
+Portland,459000,2170,squareFeet,7840.8,singleFamily,1938
+Portland,415000,690,squareFeet,5662.8,singleFamily,1947
+Portland,575000,1847,squareFeet,8276.4,singleFamily,1971
+Portland,745000,2374,squareFeet,5227.2,singleFamily,1922
+Portland,439900,1792,squareFeet,4356.0,singleFamily,1928
+Portland,800000,1998,acres,0.45,singleFamily,1956
+Portland,1249900,3084,squareFeet,5227.2,singleFamily,1927
+Portland,499000,2423,squareFeet,3484.8,singleFamily,1911
+Portland,609900,1232,squareFeet,5227.2,singleFamily,1971
+Portland,795000,2314,squareFeet,5227.2,singleFamily,1911
+Portland,789000,2166,acres,0.51,singleFamily,1941
+Portland,549000,2000,squareFeet,6534.0,singleFamily,1999
+Portland,1599000,2009,acres,0.5599999999999999,singleFamily,1961
+Portland,2550000,4425,acres,0.97,singleFamily,2007
+Las Vegas,469995,2005,squareFeet,7405.2,singleFamily,1968
+Las Vegas,799995,4658,squareFeet,7405.2,singleFamily,1992
+Las Vegas,399999,1652,squareFeet,3920.4,singleFamily,2009
+Las Vegas,720000,2393,squareFeet,6534.0,singleFamily,1989
+Las Vegas,520000,2208,acres,0.25,singleFamily,1979
+Las Vegas,390000,1418,squareFeet,7840.8,singleFamily,1955
+Las Vegas,428888,1912,squareFeet,2613.6,singleFamily,2015
+Las Vegas,210000,2121,squareFeet,7405.2,singleFamily,1975
+Las Vegas,375000,1456,squareFeet,8276.4,singleFamily,1960
+Las Vegas,795000,3457,acres,0.3,singleFamily,2000
+Las Vegas,655000,2904,squareFeet,6969.6,singleFamily,2014
+Las Vegas,590000,2540,squareFeet,7840.8,singleFamily,1996
+Las Vegas,635000,2814,squareFeet,7840.8,singleFamily,2001
+Las Vegas,470000,2069,squareFeet,8712.0,singleFamily,1967
+Las Vegas,650000,3303,squareFeet,10018.8,singleFamily,1996
+Las Vegas,376000,2349,squareFeet,8712.0,singleFamily,1977
+Las Vegas,340000,988,squareFeet,6534.0,singleFamily,1953
+Las Vegas,775000,2240,squareFeet,5662.8,singleFamily,2013
+Las Vegas,1550000,3716,acres,0.39,singleFamily,1978
+Las Vegas,520000,2202,squareFeet,8712.0,singleFamily,2006
+Las Vegas,549000,2289,squareFeet,4356.0,singleFamily,2013
+Las Vegas,854500,3581,squareFeet,6098.4,singleFamily,2020
+Las Vegas,448000,1817,squareFeet,6969.6,singleFamily,1977
+Las Vegas,280000,1130,squareFeet,4356.0,singleFamily,1989
+Las Vegas,327000,1244,squareFeet,6534.0,singleFamily,1991
+Milwaukee,279900,2867,squareFeet,6098.4,singleFamily,1890
+Milwaukee,274999,1601,squareFeet,4791.6,singleFamily,1930
+Milwaukee,230000,1765,squareFeet,4791.6,singleFamily,1921
+Milwaukee,575000,2792,squareFeet,5227.2,singleFamily,1897
+Milwaukee,115000,1465,squareFeet,9583.2,singleFamily,1953
+Milwaukee,229000,2095,squareFeet,4791.6,multiFamily,1938
+Milwaukee,4200000,9154,acres,1.35,singleFamily,1912
+Milwaukee,250000,1491,squareFeet,4791.6,singleFamily,1922
+Milwaukee,30000,2900,squareFeet,1306.8,singleFamily,1900
+Milwaukee,99950,,squareFeet,7405.2,multiFamily,1902
+Milwaukee,269900,1452,squareFeet,5227.2,singleFamily,1950
+Milwaukee,165000,964,squareFeet,7840.8,singleFamily,1953
+Milwaukee,235000,1392,squareFeet,3484.8,singleFamily,1909
+Milwaukee,274000,1484,squareFeet,6969.6,singleFamily,1949
+Milwaukee,285000,1468,acres,0.48,singleFamily,1949
+Milwaukee,180000,1537,squareFeet,7405.2,singleFamily,1906
+Milwaukee,245000,1904,squareFeet,5662.8,multiFamily,1894
+Milwaukee,4900000,8544,acres,3.8,singleFamily,1890
+Milwaukee,254999,2250,squareFeet,6098.4,singleFamily,1949
+Milwaukee,72800,,squareFeet,4356.0,multiFamily,1922
+Milwaukee,735000,3305,squareFeet,10018.8,singleFamily,1908
+Albuquerque,399000,1735,squareFeet,9583.2,singleFamily,1952
+Albuquerque,325000,1387,squareFeet,8712.0,singleFamily,1975
+Albuquerque,370000,1880,squareFeet,7840.8,singleFamily,1976
+Albuquerque,335000,1333,squareFeet,7405.2,singleFamily,1974
+Albuquerque,275000,1500,squareFeet,4791.6,singleFamily,1947
+Albuquerque,875000,3494,acres,0.26,singleFamily,1946
+Albuquerque,598000,2493,acres,0.25,singleFamily,1953
+Albuquerque,750000,2961,acres,0.31,singleFamily,1990
+Albuquerque,400000,2311,squareFeet,6098.4,singleFamily,1995
+Albuquerque,400000,1851,squareFeet,7405.2,singleFamily,1989
+Albuquerque,275000,1326,squareFeet,4356.0,singleFamily,2005
+Albuquerque,350000,1992,squareFeet,7405.2,singleFamily,1978
+Albuquerque,345000,1376,squareFeet,6969.6,singleFamily,1963
+Albuquerque,325000,1772,squareFeet,8276.4,singleFamily,1974
+Albuquerque,373999,1977,squareFeet,8712.0,singleFamily,1974
+Albuquerque,369000,1637,squareFeet,5662.8,singleFamily,1947
+Albuquerque,352900,1583,squareFeet,4791.6,singleFamily,2023
+Albuquerque,320000,1483,squareFeet,5227.2,singleFamily,1998
+Albuquerque,260000,1906,squareFeet,7405.2,singleFamily,1951
+Albuquerque,295000,1780,squareFeet,8276.4,singleFamily,1946
+Albuquerque,374900,1808,squareFeet,8276.4,singleFamily,1959
+Albuquerque,749900,2071,squareFeet,10454.4,singleFamily,2020
+Albuquerque,385000,1282,squareFeet,7405.2,singleFamily,1952
+Albuquerque,93500,997,squareFeet,1306.8,singleFamily,1950
+Albuquerque,385000,1738,acres,0.25,singleFamily,1985
+Tucson,785000,1926,squareFeet,7405.2,singleFamily,1941
+Tucson,349900,1549,squareFeet,3049.2,singleFamily,1997
+Tucson,359900,1439,squareFeet,5227.2,singleFamily,2003
+Tucson,589000,1968,acres,1.15,singleFamily,1972
+Tucson,1049000,3275,acres,3.31,singleFamily,1996
+Tucson,1600000,5091,acres,3.4,singleFamily,2012
+Tucson,394990,1627,squareFeet,8276.4,singleFamily,1997
+Tucson,435000,2353,squareFeet,7405.2,singleFamily,2006
+Tucson,600000,2663,acres,0.49000000000000005,singleFamily,1935
+Tucson,280000,1249,squareFeet,6969.6,singleFamily,1983
+Tucson,350000,1860,acres,0.25950413223140495,singleFamily,1978
+Tucson,635000,1595,squareFeet,8276.4,singleFamily,1952
+Tucson,314900,1909,squareFeet,2613.6,townhome,1974
+Tucson,314999,2100,squareFeet,8276.4,singleFamily,1957
+Tucson,235000,878,squareFeet,7405.2,singleFamily,1943
+Tucson,549900,2655,squareFeet,4791.6,singleFamily,2022
+Tucson,625000,2620,acres,0.32,singleFamily,2002
+Tucson,449000,1266,squareFeet,5227.2,singleFamily,1934
+Tucson,559000,2950,acres,0.97,singleFamily,2016
+Tucson,275000,1477,squareFeet,4356.0,singleFamily,1990
+Tucson,589000,2362,acres,0.96,singleFamily,1969
+Tucson,299000,1471,squareFeet,6534.0,multiFamily,1950
+Tucson,825000,2712,acres,0.8300000000000001,singleFamily,1978
+Tucson,275000,1400,squareFeet,8712.0,singleFamily,1958
+Tucson,253900,1209,squareFeet,8276.4,singleFamily,1972
+Fresno,299000,1573,squareFeet,9043.056,singleFamily,1956
+Fresno,310000,1159,squareFeet,4456.188,singleFamily,1925
+Fresno,250000,1036,squareFeet,7200.468,singleFamily,1987
+Fresno,350000,1307,squareFeet,8892.0,singleFamily,1967
+Fresno,325000,1280,squareFeet,7740.612,singleFamily,1950
+Fresno,645000,2014,squareFeet,9361.044,singleFamily,1980
+Fresno,494800,1789,squareFeet,7021.872,singleFamily,1991
+Fresno,700000,2686,squareFeet,9021.276,singleFamily,2003
+Fresno,374888,1825,squareFeet,6599.34,singleFamily,1973
+Fresno,379950,1814,squareFeet,8999.496,singleFamily,1957
+Fresno,250000,780,squareFeet,6699.528,singleFamily,1922
+Fresno,200000,1119,squareFeet,7248.384,singleFamily,1945
+Fresno,600000,2029,squareFeet,5880.6,singleFamily,2008
+Fresno,380000,1103,squareFeet,5248.98,singleFamily,1983
+Fresno,359900,1190,squareFeet,7501.032,singleFamily,1963
+Fresno,429900,1786,squareFeet,6507.864,singleFamily,1978
+Fresno,695000,2350,squareFeet,7736.256,singleFamily,2003
+Fresno,499000,1492,squareFeet,9000.0,singleFamily,1993
+Fresno,399900,1599,squareFeet,5998.212,singleFamily,1976
+Fresno,315000,936,squareFeet,8881.884,singleFamily,1961
+Fresno,394900,1456,squareFeet,9478.656,singleFamily,1954
+Fresno,349900,1538,squareFeet,9918.612,singleFamily,2006
+Fresno,330000,1401,squareFeet,5357.88,singleFamily,1979
+Fresno,1100000,3306,acres,2.05,singleFamily,1995
+Fresno,215000,796,squareFeet,5201.064,singleFamily,1925
+Sacramento,499000,1727,squareFeet,6969.6,singleFamily,1955
+Sacramento,869000,1600,squareFeet,5662.8,singleFamily,1939
+Sacramento,449000,1678,squareFeet,1677.06,condo,2008
+Sacramento,425000,1385,squareFeet,4356.0,singleFamily,1987
+Sacramento,275000,667,squareFeet,666.468,condo,2005
+Sacramento,799000,2379,acres,0.27,singleFamily,1970
+Sacramento,1399500,2728,squareFeet,5832.684,singleFamily,2016
+Sacramento,334950,1409,squareFeet,6534.0,singleFamily,1955
+Sacramento,540000,1126,squareFeet,6425.1,singleFamily,1930
+Sacramento,1085000,1510,squareFeet,5349.168,singleFamily,1937
+Sacramento,565000,1518,squareFeet,7988.904,singleFamily,1951
+Sacramento,1049000,1553,squareFeet,6398.964,singleFamily,1920
+Sacramento,241900,1578,squareFeet,4356.0,singleFamily,1932
+Sacramento,435000,1360,squareFeet,2099.592,singleFamily,2006
+Sacramento,799000,1259,squareFeet,6098.4,singleFamily,1910
+Sacramento,399900,1140,squareFeet,9496.08,singleFamily,1954
+Sacramento,829000,2280,squareFeet,2613.6,singleFamily,1890
+Sacramento,519000,1333,squareFeet,4952.772,singleFamily,1985
+Sacramento,329900,1147,squareFeet,3746.16,multiFamily,1981
+Sacramento,485000,1068,squareFeet,5662.8,singleFamily,1926
+Sacramento,610000,1632,squareFeet,8228.484,multiFamily,1962
+Sacramento,370000,1018,squareFeet,6098.4,singleFamily,1959
+Sacramento,575000,1965,squareFeet,6534.0,multiFamily,1977
+Sacramento,399999,1344,squareFeet,9583.2,singleFamily,1985
+Long Beach,899000,1150,squareFeet,4800.312,singleFamily,1940
+Long Beach,1295000,2082,squareFeet,9100.0,singleFamily,1953
+Long Beach,633000,900,squareFeet,5171.0,singleFamily,1940
+Long Beach,1925000,3055,squareFeet,4101.0,singleFamily,1987
+Long Beach,1100000,1267,squareFeet,5851.0,singleFamily,1929
+Long Beach,419000,905,squareFeet,9014.0,multiFamily,1963
+Long Beach,759900,1339,squareFeet,6219.0,singleFamily,1947
+Long Beach,799900,996,squareFeet,2493.0,singleFamily,1924
+Long Beach,1025000,1431,squareFeet,5011.0,singleFamily,1950
+Long Beach,725000,1770,acres,10.1401,condo,2006
+Long Beach,349000,770,squareFeet,7514.0,condo,1931
+Long Beach,750000,1417,squareFeet,5400.0,singleFamily,1953
+Long Beach,1289000,1567,squareFeet,5742.0,singleFamily,1944
+Long Beach,1995000,5498,squareFeet,7356.0,multiFamily,1923
+Long Beach,1099000,1473,squareFeet,7535.0,singleFamily,1951
+Long Beach,595000,1306,squareFeet,5954.0,singleFamily,1925
+Long Beach,799000,1445,squareFeet,3995.0,singleFamily,1948
+Long Beach,450000,670,acres,0.48438934802571165,condo,1922
+Long Beach,790000,1361,squareFeet,8493.0,singleFamily,1950
+Long Beach,759000,902,squareFeet,5417.0,singleFamily,1942
+Long Beach,1050000,1650,squareFeet,6276.0,singleFamily,1937
+Long Beach,979999,1578,squareFeet,5000.0,singleFamily,1953
+Long Beach,499999,1083,acres,0.6831726354453627,condo,1988
+Long Beach,309990,799,acres,0.2858126721763085,condo,1987
+Kansas City,200000,928,acres,0.46999540863177225,singleFamily,1945
+Kansas City,275000,1056,squareFeet,9148.0,singleFamily,1952
+Kansas City,350000,3048,acres,0.29850780532598714,singleFamily,2000
+Kansas City,489950,1862,squareFeet,7145.0,singleFamily,1930
+Kansas City,375000,1658,squareFeet,10264.0,singleFamily,1921
+Kansas City,325000,1504,squareFeet,6098.0,singleFamily,1929
+Kansas City,430000,2088,squareFeet,10018.8,singleFamily,2009
+Kansas City,355000,2740,squareFeet,10019.0,singleFamily,2001
+Kansas City,428000,3358,acres,0.26,singleFamily,1986
+Kansas City,255000,1080,squareFeet,8726.0,singleFamily,1950
+Kansas City,225000,1348,acres,0.25,singleFamily,1963
+Kansas City,200000,838,squareFeet,7841.0,singleFamily,1967
+Kansas City,325000,2092,acres,1.48,singleFamily,1938
+Kansas City,500000,3316,acres,0.4,singleFamily,1964
+Kansas City,565000,3264,acres,0.49000000000000005,singleFamily,2018
+Kansas City,295000,1531,squareFeet,5501.0,singleFamily,1929
+Kansas City,365000,2904,squareFeet,9945.0,singleFamily,1986
+Kansas City,285000,1292,squareFeet,9148.0,singleFamily,1990
+Kansas City,825000,4817,acres,0.29,singleFamily,1909
+Kansas City,358000,1998,acres,1.14,singleFamily,1964
+Kansas City,149999,1076,squareFeet,7376.0,singleFamily,1955
+Kansas City,4950000,9702,acres,2.7,singleFamily,1906
+Kansas City,55000,1700,squareFeet,9806.0,singleFamily,1962
+Kansas City,239950,3377,acres,0.3,singleFamily,1966
+Kansas City,500000,3576,acres,0.39,singleFamily,1987
+Mesa,550000,2161,squareFeet,7020.0,singleFamily,2004
+Mesa,435000,1727,squareFeet,4349.0,singleFamily,1984
+Mesa,1795000,5747,acres,0.38556014692378326,singleFamily,2001
+Mesa,1,3504,acres,0.37428833792470156,singleFamily,1969
+Mesa,415000,1579,squareFeet,6787.0,singleFamily,1997
+Mesa,385000,1472,acres,0.2671028466483012,singleFamily,1974
+Mesa,575000,1935,squareFeet,7054.0,singleFamily,1991
+Mesa,814990,2706,squareFeet,10889.0,singleFamily,2020
+Mesa,430000,1490,squareFeet,7453.0,singleFamily,1976
+Mesa,675000,2952,squareFeet,6318.0,singleFamily,2024
+Mesa,735000,2108,squareFeet,7150.0,singleFamily,2014
+Mesa,329900,1457,squareFeet,7225.0,singleFamily,1970
+Mesa,749900,2324,squareFeet,10224.0,singleFamily,1978
+Mesa,1670000,4624,acres,0.5509641873278237,singleFamily,2004
+Mesa,369900,1100,squareFeet,6686.0,singleFamily,1955
+Mesa,899900,2944,squareFeet,8511.0,singleFamily,2019
+Mesa,510000,2300,squareFeet,8046.0,singleFamily,1964
+Mesa,479000,1915,squareFeet,8873.0,singleFamily,1959
+Mesa,529500,1800,squareFeet,7112.0,singleFamily,1993
+Mesa,745000,2927,squareFeet,8901.0,singleFamily,2001
+Mesa,1195000,3265,squareFeet,8100.0,singleFamily,2019
+Mesa,450000,1520,squareFeet,7505.0,singleFamily,1977
+Mesa,334999,1988,squareFeet,6606.0,singleFamily,1979
+Mesa,899000,3295,acres,0.9032598714416896,singleFamily,1987
+Virginia Beach,425000,1344,squareFeet,8054.244,singleFamily,1976
+Virginia Beach,389900,1533,squareFeet,8712.0,singleFamily,1968
+Virginia Beach,365000,1635,squareFeet,10305.0,singleFamily,1979
+Virginia Beach,1999000,5107,acres,0.9388,singleFamily,1990
+Virginia Beach,1068000,2466,acres,2.1,singleFamily,1965
+Virginia Beach,590000,2496,acres,0.8800000000000001,singleFamily,2012
+Virginia Beach,525000,3100,acres,0.25,singleFamily,2000
+Virginia Beach,985000,3466,acres,0.5,singleFamily,1994
+Virginia Beach,850000,2617,acres,0.63,singleFamily,1963
+Virginia Beach,1260000,3690,acres,0.31,singleFamily,2023
+Virginia Beach,300000,1334,squareFeet,7840.8,singleFamily,1966
+Virginia Beach,350000,1511,squareFeet,8690.22,singleFamily,1962
+Virginia Beach,899500,2438,acres,0.5191,singleFamily,1969
+Virginia Beach,675000,2862,acres,0.36310000000000003,singleFamily,1983
+Atlanta,250000,1102,squareFeet,1306.8,condo,1963
+Atlanta,1050000,1963,acres,0.3,singleFamily,1936
+Atlanta,3250000,3266,squareFeet,2787.84,condo,2002
+Atlanta,639000,5000,acres,0.592,singleFamily,2006
+Atlanta,969900,3340,acres,0.3,singleFamily,2016
+Atlanta,249900,1320,squareFeet,7492.32,singleFamily,2022
+Atlanta,200000,1631,acres,0.321,singleFamily,1975
+Atlanta,395000,3339,squareFeet,8712.0,singleFamily,2004
+Atlanta,330000,3142,acres,0.42000000000000004,singleFamily,2006
+Atlanta,859000,2370,squareFeet,1306.8,townhome,2005
+Atlanta,425000,4500,acres,0.3,singleFamily,2005
+Atlanta,1995000,4629,acres,0.7937,singleFamily,1965
+Atlanta,1995000,3646,acres,1.018,singleFamily,1958
+Atlanta,663000,2050,squareFeet,8712.0,singleFamily,1947
+Atlanta,239900,2300,acres,0.31,singleFamily,1935
+Atlanta,249900,1650,acres,0.289,singleFamily,1957
+Atlanta,295000,1359,acres,0.413,singleFamily,1999
+Atlanta,439999,2700,squareFeet,8319.96,singleFamily,2000
+Atlanta,164500,1100,acres,0.5,singleFamily,1959
+Atlanta,670000,2055,squareFeet,4399.56,singleFamily,2025
+Atlanta,450000,1474,squareFeet,9191.16,singleFamily,1920
+Atlanta,439995,2036,squareFeet,1132.56,condo,1962
+Atlanta,729000,2718,squareFeet,10454.4,singleFamily,1950
+Colorado Springs,454999,1924,squareFeet,9049.0,singleFamily,1986
+Colorado Springs,710000,3104,acres,0.3306,singleFamily,1971
+Colorado Springs,595000,3318,acres,0.3431,singleFamily,1994
+Colorado Springs,530000,2253,squareFeet,6891.192,singleFamily,2017
+Colorado Springs,675000,3768,squareFeet,8215.416,singleFamily,2006
+Colorado Springs,815000,4216,acres,0.5404,singleFamily,1998
+Colorado Springs,459900,2016,squareFeet,10807.236,singleFamily,1959
+Colorado Springs,449000,2348,squareFeet,7840.8,singleFamily,1983
+Colorado Springs,850000,2317,acres,0.35,singleFamily,1975
+Colorado Springs,465000,2312,squareFeet,5645.376,singleFamily,1997
+Colorado Springs,474000,2220,squareFeet,9801.0,singleFamily,1971
+Colorado Springs,524999,3450,squareFeet,7209.0,singleFamily,2012
+Colorado Springs,399900,1728,squareFeet,7623.0,singleFamily,1955
+Colorado Springs,704500,3338,squareFeet,7200.468,singleFamily,2005
+Colorado Springs,369900,1538,squareFeet,7113.348,singleFamily,1962
+Colorado Springs,535000,2776,squareFeet,5501.628,singleFamily,2005
+Colorado Springs,570000,2114,acres,0.3593,singleFamily,1956
+Colorado Springs,865000,4028,squareFeet,10654.776,singleFamily,2019
+Colorado Springs,565000,2340,acres,0.29159999999999997,singleFamily,1973
+Colorado Springs,1050000,4153,acres,0.3309,townhome,1986
+Colorado Springs,400000,1344,squareFeet,6268.284,singleFamily,2003
+Colorado Springs,600000,2827,acres,5.0,singleFamily,1914
+Colorado Springs,490000,3320,squareFeet,8302.536,singleFamily,2005
+Colorado Springs,269900,1479,squareFeet,3998.808,singleFamily,2022
+Colorado Springs,450000,2406,squareFeet,7649.136,singleFamily,1979
+Omaha,344000,2512,squareFeet,6098.4,singleFamily,1987
+Omaha,425000,1979,squareFeet,6534.0,singleFamily,1941
+Omaha,2995000,7217,acres,2.45,singleFamily,1940
+Omaha,599000,2808,squareFeet,8232.84,singleFamily,2023
+Omaha,350000,2031,squareFeet,6969.6,singleFamily,1982
+Omaha,544000,2439,acres,0.35,singleFamily,2018
+Omaha,1995000,9279,acres,10.03,singleFamily,2000
+Omaha,290000,2032,acres,0.26,singleFamily,1959
+Omaha,317000,2610,acres,0.32,singleFamily,1979
+Omaha,449900,2955,acres,0.26,singleFamily,1987
+Omaha,145000,1608,acres,0.27,singleFamily,1958
+Omaha,235000,1232,squareFeet,4356.0,singleFamily,1962
+Omaha,645000,3584,squareFeet,9583.2,singleFamily,2016
+Omaha,469900,3308,squareFeet,10018.8,singleFamily,2001
+Omaha,285000,1468,squareFeet,4791.6,singleFamily,2016
+Omaha,415000,3003,acres,0.31,singleFamily,1985
+Omaha,329900,1722,squareFeet,8276.4,singleFamily,2003
+Omaha,285000,2182,squareFeet,10454.4,singleFamily,1974
+Omaha,417000,2181,acres,0.293,singleFamily,1958
+Omaha,499900,3712,squareFeet,9147.6,singleFamily,1992
+Omaha,885000,3957,acres,0.469,singleFamily,1971
+Omaha,610000,3488,squareFeet,9147.6,singleFamily,2005
+Omaha,275000,1515,squareFeet,6098.4,singleFamily,1912
+Omaha,710000,5378,acres,0.301,singleFamily,2001
+Omaha,360000,3205,squareFeet,6534.0,singleFamily,1997
+Raleigh,295000,1262,squareFeet,2178.0,townhome,1984
+Raleigh,689900,3074,acres,2.23,singleFamily,1985
+Raleigh,349900,1550,squareFeet,1742.4,townhome,2008
+Raleigh,600000,3616,squareFeet,9147.6,singleFamily,2020
+Raleigh,6250000,6901,acres,0.55,singleFamily,2026
+Raleigh,895000,1724,acres,0.38,singleFamily,1941
+Raleigh,355000,1604,squareFeet,8712.0,singleFamily,1993
+Raleigh,397000,2178,acres,0.37,singleFamily,1964
+Raleigh,815000,3199,acres,0.25,singleFamily,2001
+Raleigh,485000,1713,acres,0.5700000000000001,singleFamily,1979
+Raleigh,974900,3158,acres,0.6,singleFamily,1970
+Raleigh,599000,3544,squareFeet,9147.6,singleFamily,2007
+Raleigh,290000,1439,squareFeet,5662.8,singleFamily,2005
+Raleigh,640000,2834,acres,0.29,singleFamily,1980
+Raleigh,775000,3015,acres,0.27,singleFamily,2000
+Raleigh,390000,2446,squareFeet,2613.6,townhome,2019
+Raleigh,300000,1264,acres,0.47000000000000003,singleFamily,1959
+Raleigh,440000,2468,squareFeet,9583.2,singleFamily,2003
+Raleigh,324400,994,squareFeet,8276.4,singleFamily,1959
+Raleigh,369000,1520,acres,0.45,singleFamily,1964
+Raleigh,1150000,4200,acres,2.0,singleFamily,1997
+Raleigh,475000,3110,acres,0.32,singleFamily,1973
+Raleigh,950000,2394,acres,0.33999999999999997,singleFamily,1972
+Raleigh,275000,1380,squareFeet,4791.6,singleFamily,2003
+Raleigh,313900,1292,squareFeet,2178.0,townhome,2007
+Miami,735000,1512,squareFeet,7725.0,singleFamily,1978
+Miami,789900,1176,squareFeet,2253.0,singleFamily,2000
+Miami,699999,1612,squareFeet,8000.0,singleFamily,1974
+Miami,814500,1624,acres,0.3445821854912764,singleFamily,1961
+Miami,575000,1525,squareFeet,9900.0,singleFamily,1971
+Miami,499999,1665,squareFeet,5000.0,singleFamily,1994
+Miami,1800000,2695,squareFeet,8850.0,singleFamily,1936
+Miami,875000,1648,squareFeet,6500.0,singleFamily,1951
+Miami,2999000,5180,acres,0.48787878787878786,singleFamily,1925
+Miami,1748000,1874,acres,0.2599862258953168,singleFamily,1955
+Miami,1850000,3104,squareFeet,5278.0,singleFamily,2022
+Miami,1375000,2940,acres,0.3443526170798898,singleFamily,1979
+Miami,14250000,27808,acres,18.46,singleFamily,2022
+Miami,749000,2206,squareFeet,5050.0,singleFamily,1999
+Miami,583900,1479,squareFeet,7500.0,singleFamily,1957
+Miami,2590000,2800,squareFeet,7150.0,singleFamily,2025
+Miami,875000,2597,squareFeet,5281.0,singleFamily,2016
+Miami,1039000,1478,squareFeet,10120.0,singleFamily,1963
+Miami,469900,1878,squareFeet,6750.0,singleFamily,1957
+Miami,950000,1607,squareFeet,7500.0,singleFamily,1951
+Miami,1150000,2747,acres,0.36632231404958676,singleFamily,1978
+Oakland,1595000,2285,squareFeet,6098.4,singleFamily,1957
+Oakland,249000,2400,squareFeet,3206.016,multiFamily,1912
+Oakland,499999,2576,squareFeet,6098.4,singleFamily,1900
+Oakland,1195000,2621,squareFeet,8712.0,singleFamily,1962
+Oakland,1095000,1397,squareFeet,5227.2,singleFamily,1948
+Oakland,1195000,2185,squareFeet,3484.8,singleFamily,1908
+Oakland,499000,1580,squareFeet,4791.6,multiFamily,1987
+Oakland,799000,946,squareFeet,6969.6,singleFamily,1953
+Oakland,569000,1195,acres,0.71,condo,2008
+Oakland,1195000,2599,acres,0.4,singleFamily,1957
+Oakland,775000,1990,squareFeet,3049.2,multiFamily,1903
+Oakland,899000,1527,squareFeet,6969.6,singleFamily,1954
+Oakland,1098000,2139,squareFeet,5662.8,singleFamily,1918
+Oakland,879000,1142,squareFeet,3484.8,singleFamily,1924
+Oakland,359000,1926,squareFeet,3920.4,multiFamily,1946
+Oakland,799000,1128,squareFeet,5227.2,singleFamily,1940
+Oakland,1195000,1832,acres,0.9800000000000001,singleFamily,1965
+Oakland,399999,2536,squareFeet,3484.8,multiFamily,1910
+Oakland,925000,2045,squareFeet,10000.0,singleFamily,1961
+Oakland,1995000,4542,acres,0.27999999999999997,singleFamily,2012
+Oakland,1149000,1588,squareFeet,6969.6,singleFamily,1917
+Oakland,880000,1553,squareFeet,6969.6,singleFamily,1964
+Oakland,1295000,2391,squareFeet,7840.8,singleFamily,1985
+Oakland,529000,996,squareFeet,2613.6,singleFamily,1930
+Oakland,1578000,2302,squareFeet,8712.0,singleFamily,1922
+Minneapolis,949900,3544,squareFeet,7405.2,singleFamily,1974
+Minneapolis,285000,1975,squareFeet,5227.2,singleFamily,1910
+Minneapolis,399900,4800,squareFeet,6534.0,singleFamily,1887
+Minneapolis,524927,2824,squareFeet,6098.4,singleFamily,1942
+Minneapolis,225000,1643,squareFeet,4791.6,singleFamily,1913
+Minneapolis,475000,2297,squareFeet,5227.2,singleFamily,1922
+Minneapolis,320000,1495,squareFeet,5227.2,singleFamily,1942
+Minneapolis,359000,2748,squareFeet,7405.2,singleFamily,1938
+Minneapolis,325000,2502,squareFeet,0.12,singleFamily,1909
+Minneapolis,249000,1295,squareFeet,7405.2,singleFamily,1916
+Minneapolis,799000,4370,squareFeet,7840.8,singleFamily,1913
+Minneapolis,479900,2224,squareFeet,5227.2,singleFamily,1917
+Minneapolis,750000,2387,squareFeet,7405.2,singleFamily,1931
+Minneapolis,1175000,3408,squareFeet,9147.6,singleFamily,1951
+Minneapolis,419900,1920,squareFeet,5662.8,singleFamily,1907
+Minneapolis,234900,1689,squareFeet,871.2,townhome,1971
+Minneapolis,300000,1256,squareFeet,5227.2,singleFamily,1910
+Minneapolis,524900,2422,squareFeet,5227.2,singleFamily,1947
+Minneapolis,415000,2621,squareFeet,9147.6,singleFamily,1952
+Minneapolis,665000,2325,squareFeet,5227.2,singleFamily,1924
+Minneapolis,335000,2432,acres,0.25,multiFamily,1900
+Minneapolis,220000,1950,squareFeet,5662.8,singleFamily,1908
+Minneapolis,250000,1542,squareFeet,3049.2,singleFamily,1909
+Minneapolis,230000,2892,squareFeet,4791.6,singleFamily,1900
+Minneapolis,1100000,2278,squareFeet,7840.8,singleFamily,1957
+Tulsa,310000,1846,squareFeet,9888.12,singleFamily,1975
+Tulsa,155000,1424,squareFeet,9147.6,singleFamily,1965
+Tulsa,664900,2946,acres,0.5489999999999999,singleFamily,1967
+Tulsa,400000,7659,acres,1.03,singleFamily,2023
+Tulsa,179900,1262,squareFeet,8363.52,singleFamily,1979
+Tulsa,1325000,3696,acres,0.257,singleFamily,2011
+Tulsa,689000,2525,squareFeet,10280.16,singleFamily,1939
+Tulsa,225000,910,squareFeet,696.96,condo,2014
+Tulsa,275000,1568,squareFeet,6490.44,singleFamily,1920
+Tulsa,180000,1177,squareFeet,7579.44,singleFamily,1968
+Tulsa,130000,1488,squareFeet,9452.52,singleFamily,1952
+Tulsa,274900,2008,squareFeet,7927.92,singleFamily,1926
+Tulsa,99000,840,squareFeet,8407.08,singleFamily,1942
+Tulsa,339000,2043,squareFeet,9844.56,singleFamily,2010
+Tulsa,200000,1824,squareFeet,9496.08,singleFamily,1962
+Tulsa,485000,3701,squareFeet,10018.8,singleFamily,2003
+Tulsa,230000,1328,squareFeet,5706.36,singleFamily,1986
+Tulsa,250000,1834,squareFeet,8537.76,singleFamily,1965
+Tulsa,338500,1948,squareFeet,10585.08,singleFamily,2024
+Tulsa,199900,1437,squareFeet,9408.96,singleFamily,1971
+Tulsa,189900,1212,squareFeet,7623.0,singleFamily,1962
+Tulsa,255000,1641,squareFeet,9016.92,singleFamily,1958
+Tulsa,499000,2333,acres,0.274,singleFamily,1963
+Tulsa,525000,3883,acres,0.645,singleFamily,1979
+Tulsa,165000,1064,squareFeet,6751.8,singleFamily,2006
+Cleveland,99000,1944,squareFeet,6381.54,singleFamily,1920
+Cleveland,185000,1284,squareFeet,3781.008,singleFamily,1928
+Cleveland,165000,1200,squareFeet,5662.8,singleFamily,1970
+Cleveland,118000,1888,squareFeet,7004.448,singleFamily,1934
+Cleveland,325000,3638,squareFeet,5401.44,multiFamily,1900
+Cleveland,129900,1264,squareFeet,6054.84,singleFamily,1955
+Cleveland,24200,1138,squareFeet,4678.344,singleFamily,1920
+Cleveland,149900,2710,squareFeet,4338.576,singleFamily,1912
+Cleveland,777000,5560,acres,0.303,singleFamily,1915
+Cleveland,70000,1179,squareFeet,7771.104,singleFamily,1917
+Cleveland,29900,1328,acres,0.3444,singleFamily,1900
+Cleveland,149900,2950,squareFeet,5279.472,multiFamily,1920
+Cleveland,449900,1900,squareFeet,3510.936,singleFamily,2025
+Cleveland,159900,1536,squareFeet,4621.716,singleFamily,1962
+Cleveland,100000,3101,squareFeet,5601.816,multiFamily,1920
+Cleveland,549900,2264,squareFeet,8398.368,singleFamily,1910
+Cleveland,124900,1896,squareFeet,3920.4,singleFamily,1914
+Cleveland,325000,1850,squareFeet,7400.844,singleFamily,1927
+Cleveland,199000,2912,squareFeet,5401.44,multiFamily,1925
+Cleveland,224900,2883,squareFeet,5619.24,singleFamily,1924
+Cleveland,76000,,squareFeet,6451.236,multiFamily,1930
+Cleveland,144500,,squareFeet,4199.184,singleFamily,1900
+Cleveland,205000,2640,squareFeet,5279.472,multiFamily,1900
+Cleveland,170000,1238,squareFeet,5000.688,singleFamily,1939
+Wichita,325000,2213,squareFeet,9147.6,singleFamily,1949
+Wichita,285000,2303,acres,0.8,singleFamily,1954
+Wichita,649900,4470,acres,0.26,singleFamily,1998
+Wichita,199900,1354,acres,0.55,singleFamily,1961
+Wichita,350000,2511,acres,0.32,singleFamily,1950
+Wichita,280000,2294,acres,0.25,singleFamily,1989
+Wichita,259900,2236,acres,0.45999999999999996,singleFamily,1975
+Wichita,168000,2287,squareFeet,6534.0,singleFamily,1948
+Wichita,204000,2112,squareFeet,6534.0,singleFamily,1925
+Wichita,175000,1875,squareFeet,6534.0,singleFamily,1952
+Wichita,234900,2494,acres,0.31,singleFamily,1989
+Wichita,269000,2187,squareFeet,8712.0,singleFamily,1996
+Wichita,475000,3273,acres,0.26,singleFamily,1977
+Wichita,250000,2244,acres,0.29,singleFamily,1983
+Wichita,259900,1356,squareFeet,5227.2,singleFamily,2003
+Wichita,585000,3431,acres,0.25,singleFamily,1987
+Wichita,159900,1410,squareFeet,6098.4,singleFamily,1984
+Wichita,120000,1390,squareFeet,435.6,condo,1970
+Wichita,228000,1812,squareFeet,10018.8,singleFamily,1948
+Wichita,400000,2858,squareFeet,10454.4,singleFamily,1965
+Wichita,125000,1814,squareFeet,6969.6,singleFamily,1954
+Wichita,320000,2361,squareFeet,10018.8,singleFamily,2018
+Wichita,155000,1642,squareFeet,7840.8,singleFamily,1900
+Wichita,275000,3340,acres,0.27,singleFamily,1964
+Wichita,265000,2581,acres,0.31,singleFamily,1957
+Arlington,280000,2058,squareFeet,7710.12,singleFamily,1994
+Arlington,240000,1340,squareFeet,8407.08,singleFamily,1972
+Arlington,430000,2741,squareFeet,10105.92,singleFamily,1989
+Arlington,400000,2507,squareFeet,7187.4,singleFamily,2001
+Arlington,345000,1628,squareFeet,7187.4,singleFamily,1978
+Arlington,400000,3019,squareFeet,10193.04,singleFamily,1974
+Arlington,384900,2518,squareFeet,7579.44,singleFamily,1989
+Arlington,399000,2289,squareFeet,7448.76,singleFamily,2006
+Arlington,295000,1572,squareFeet,7797.24,singleFamily,1956
+Arlington,515000,2877,acres,0.3,singleFamily,2008
+Arlington,377500,1994,squareFeet,7187.4,singleFamily,1988
+Arlington,599999,4535,acres,0.5680000000000001,singleFamily,1969
+Arlington,575000,2937,squareFeet,10105.92,singleFamily,1973
+Arlington,475000,2503,squareFeet,10541.52,singleFamily,1978
+Arlington,348000,2393,squareFeet,7187.4,singleFamily,2000
+Arlington,349900,2203,squareFeet,7187.4,singleFamily,1978
+Arlington,318500,1578,squareFeet,6272.64,singleFamily,1986
+Arlington,280000,1978,squareFeet,9016.92,singleFamily,1967
+Arlington,295000,1466,squareFeet,8537.76,singleFamily,1970
+Arlington,315000,2316,squareFeet,10715.76,singleFamily,1990
+Arlington,430000,2142,acres,0.283,singleFamily,1997
+Arlington,294900,1438,squareFeet,6011.28,singleFamily,1995
+Arlington,215000,955,squareFeet,6490.44,singleFamily,1959
+Arlington,269000,1060,squareFeet,9408.96,singleFamily,1953
+Arlington,259000,1061,squareFeet,6708.24,singleFamily,1962
+New Orleans,295000,1142,squareFeet,2173.5281,singleFamily,1954
+New Orleans,1425000,4309,squareFeet,6250.86,singleFamily,2000
+New Orleans,345000,1391,squareFeet,3894.264,singleFamily,1890
+New Orleans,335000,1870,squareFeet,5950.0,singleFamily,1956
+New Orleans,1995000,3226,squareFeet,3049.2,singleFamily,1880
+New Orleans,290000,2497,squareFeet,8999.496,singleFamily,1970
+New Orleans,578000,1832,squareFeet,3600.0,multiFamily,1920
+New Orleans,324000,2349,squareFeet,6551.424,singleFamily,1965
+New Orleans,819000,2511,squareFeet,5400.0,singleFamily,1916
+New Orleans,4350000,13186,acres,0.32999999999999996,multiFamily,1846
+New Orleans,299000,1550,squareFeet,5088.0,singleFamily,1890
+New Orleans,595000,3315,squareFeet,5998.212,singleFamily,2007
+New Orleans,2550000,5673,squareFeet,7200.0,singleFamily,1906
+New Orleans,334000,2675,squareFeet,4130.0,singleFamily,1982
+New Orleans,3900000,8325,acres,0.2828053259871442,singleFamily,1852
+New Orleans,250000,1172,squareFeet,2058.0,singleFamily,1911
+New Orleans,100000,2184,squareFeet,4769.82,multiFamily,1940
+New Orleans,190000,1908,squareFeet,3407.6969,singleFamily,1970
+New Orleans,299000,2100,squareFeet,6782.292,singleFamily,1980
+New Orleans,310000,1580,squareFeet,2580.0,multiFamily,1922
+New Orleans,1200000,3892,squareFeet,3720.0,singleFamily,1870
+New Orleans,470000,3274,squareFeet,9347.976,singleFamily,1976
+New Orleans,374000,2775,squareFeet,8319.96,singleFamily,1965
+Bakersfield,479900,1834,squareFeet,9147.6,singleFamily,1980
+Bakersfield,505000,2668,squareFeet,6098.4,singleFamily,2023
+Bakersfield,579900,3185,squareFeet,7405.2,singleFamily,2007
+Bakersfield,465000,1894,squareFeet,7405.2,singleFamily,2004
+Bakersfield,825000,2630,acres,1.09,singleFamily,1978
+Bakersfield,250000,954,squareFeet,6969.6,singleFamily,1954
+Bakersfield,315000,1331,squareFeet,6098.4,singleFamily,2002
+Bakersfield,550000,2558,acres,0.4,singleFamily,2004
+Bakersfield,399999,1863,squareFeet,7405.2,singleFamily,1988
+Bakersfield,529000,1724,squareFeet,7405.2,singleFamily,2021
+Bakersfield,299900,1613,squareFeet,7840.8,singleFamily,1962
+Bakersfield,390000,1640,acres,0.27,singleFamily,1995
+Bakersfield,161200,1144,squareFeet,8712.0,singleFamily,1973
+Bakersfield,719950,3306,acres,0.33999999999999997,singleFamily,1994
+Bakersfield,280000,1506,squareFeet,7405.2,singleFamily,1926
+Bakersfield,245995,1119,squareFeet,6969.6,singleFamily,1905
+Bakersfield,649900,2807,squareFeet,9583.2,singleFamily,1993
+Bakersfield,288000,1357,squareFeet,1306.8,condo,1980
+Bakersfield,2225000,5089,acres,1.0,singleFamily,2006
+Bakersfield,610000,2445,squareFeet,6969.6,singleFamily,2023
+Bakersfield,449500,1815,squareFeet,10018.8,singleFamily,1984
+Bakersfield,1199000,2488,acres,2.5,singleFamily,1977
+Bakersfield,739900,2245,squareFeet,8712.0,singleFamily,1976
+Bakersfield,375000,1410,squareFeet,10454.4,singleFamily,2012
+Bakersfield,450000,2287,squareFeet,8276.4,singleFamily,1969
+Tampa,1595000,3187,squareFeet,8400.0,singleFamily,2022
+Tampa,685000,2648,acres,0.5509641873278237,singleFamily,1981
+Tampa,10995000,6959,acres,0.2865013774104683,singleFamily,2017
+Tampa,311900,1274,squareFeet,5000.0,singleFamily,2008
+Tampa,250000,1702,squareFeet,7035.0,singleFamily,1983
+Tampa,749900,3757,acres,0.2869605142332415,singleFamily,1953
+Tampa,375000,1540,squareFeet,5500.0,singleFamily,2021
+Tampa,260000,1472,acres,0.4132231404958678,singleFamily,1920
+Tampa,668000,3110,squareFeet,9792.0,singleFamily,2012
+Tampa,375000,1504,squareFeet,5614.0,singleFamily,1949
+Tampa,300000,810,squareFeet,7200.0,singleFamily,1947
+Tampa,439990,2227,squareFeet,7150.0,singleFamily,1998
+Tampa,140000,1118,squareFeet,6969.6,singleFamily,1959
+Tampa,899000,2738,squareFeet,6776.0,singleFamily,1995
+Tampa,1350000,2914,squareFeet,7500.0,singleFamily,2021
+Tampa,315000,1264,squareFeet,2.0,condo,2010
+Tampa,220000,768,squareFeet,6000.0,singleFamily,1975
+Tampa,335000,1392,squareFeet,5800.0,singleFamily,1980
+Tampa,449900,1764,squareFeet,7350.0,singleFamily,1980
+Tampa,319000,1307,squareFeet,9453.0,townhome,2025
+Tampa,3599000,5496,acres,0.3925619834710744,singleFamily,2023
+Tampa,1875000,4485,squareFeet,9750.0,singleFamily,1999
+Tampa,575000,1569,acres,0.277089072543618,singleFamily,1952
+Tampa,575000,1502,acres,0.3673094582185491,singleFamily,1972
+Honolulu,250000,652,acres,1.137,condo,1981
+Aurora,2488000,,squareFeet,6195.0476,singleFamily,
+Aurora,3529000,,squareFeet,0.237,singleFamily,
+Aurora,1788000,,squareFeet,4736.12,singleFamily,
+Aurora,1249000,,squareFeet,3068.4896,townhome,
+Aurora,998888,1732,squareFeet,3343.61,singleFamily,1994
+Aurora,1349900,,squareFeet,4628.2686,singleFamily,
+Aurora,2799880,,squareFeet,8548.5022,singleFamily,
+Aurora,3360000,,acres,2.7548,singleFamily,
+Aurora,5900900,,squareFeet,1.02,singleFamily,
+Aurora,13900000,,acres,2.1264,singleFamily,
+Aurora,13800000,,squareFeet,36.29,singleFamily,
+Aurora,939900,,squareFeet,3450.0,townhome,
+Aurora,2890000,,acres,0.3000440771349862,singleFamily,
+Aurora,1748000,,squareFeet,5070.2,singleFamily,
+Aurora,2625000,,squareFeet,7500.0,singleFamily,
+Aurora,1668800,,squareFeet,4620.0,singleFamily,
+Aurora,1799000,,squareFeet,8322.0,singleFamily,
+Aurora,985000,,squareFeet,2507.0,singleFamily,
+Aurora,4899000,,acres,0.953452803030303,singleFamily,
+Aurora,915000,,squareFeet,4320.0,singleFamily,
+Aurora,1190000,,squareFeet,4003.3966,singleFamily,
+Anaheim,1499000,2319,squareFeet,10625.0,singleFamily,1985
+Anaheim,1150000,1655,squareFeet,1655.0,singleFamily,1971
+Anaheim,799999,1291,squareFeet,6867.0,singleFamily,1956
+Anaheim,2880000,3774,squareFeet,9836.0,singleFamily,1999
+Anaheim,1575000,2752,squareFeet,10200.0,singleFamily,1976
+Anaheim,569000,1665,acres,13.5981,condo,1964
+Anaheim,875000,1536,squareFeet,3230.0,singleFamily,1974
+Anaheim,1150000,1667,squareFeet,7875.0,singleFamily,1964
+Anaheim,1199000,2050,squareFeet,7245.0,singleFamily,1957
+Anaheim,1299999,2753,squareFeet,7616.0,singleFamily,1965
+Anaheim,899000,2453,squareFeet,6709.0,singleFamily,1938
+Anaheim,1250000,1857,squareFeet,8415.792,singleFamily,1959
+Anaheim,1075000,1691,squareFeet,7200.0,singleFamily,1956
+Anaheim,299990,1541,acres,43.7639,manufactured,2000
+Anaheim,875000,1887,squareFeet,2992.0,singleFamily,1976
+Anaheim,849900,1126,squareFeet,8514.0,singleFamily,1957
+Anaheim,899000,1278,squareFeet,7039.0,singleFamily,1954
+Anaheim,899000,1600,squareFeet,6000.0,singleFamily,1968
+Anaheim,1170000,1709,squareFeet,3800.0,singleFamily,1994
+Anaheim,1400000,2126,squareFeet,10800.0,singleFamily,1963
+Anaheim,1099500,2142,acres,0.2837465564738292,singleFamily,1963
+Anaheim,1075000,1672,squareFeet,7526.0,singleFamily,1954
+Santa Ana,350000,1617,acres,9.4997,condo,1974
+Santa Ana,549000,1742,squareFeet,7148.0,singleFamily,1922
+Santa Ana,339000,1283,squareFeet,3000.0,condo,1975
+Santa Ana,1099000,1426,squareFeet,4750.0,singleFamily,1971
+Santa Ana,899900,1348,squareFeet,6650.0,singleFamily,1929
+Santa Ana,380000,1093,acres,1.8246,condo,1984
+Santa Ana,399999,1455,acres,9.4997,condo,1974
+Santa Ana,349000,1455,acres,9.4997,condo,1974
+Santa Ana,1195000,1849,squareFeet,6630.0,singleFamily,1962
+Santa Ana,759998,1050,squareFeet,4250.0,singleFamily,1915
+Santa Ana,399000,1679,acres,9.4997,townhome,1974
+Santa Ana,1195000,1988,squareFeet,7523.0,condo,2000
+Santa Ana,1200000,1915,squareFeet,7080.0,singleFamily,1951
+Santa Ana,875000,1361,squareFeet,8346.0,singleFamily,1960
+Santa Ana,980000,2133,squareFeet,1723.0,singleFamily,2017
+Santa Ana,1050000,1224,squareFeet,6072.0,singleFamily,1960
+Santa Ana,550000,1261,acres,9.4179,condo,1963
+Santa Ana,1088000,1821,squareFeet,6360.0,singleFamily,1957
+Santa Ana,875000,1812,squareFeet,6535.0,singleFamily,1917
+Santa Ana,950000,1553,squareFeet,8600.0,singleFamily,1955
+Santa Ana,950000,1187,squareFeet,6250.0,singleFamily,1950
+St. Louis,239900,960,squareFeet,7840.8,singleFamily,1977
+Riverside,749900,2889,squareFeet,6098.0,singleFamily,2022
+Riverside,659900,1769,squareFeet,9583.0,singleFamily,1964
+Riverside,649999,2004,squareFeet,8276.0,singleFamily,2001
+Riverside,649000,1567,squareFeet,6970.0,singleFamily,1978
+Riverside,649000,1535,squareFeet,7405.0,singleFamily,1976
+Riverside,565000,1224,squareFeet,6534.0,singleFamily,1953
+Riverside,499990,1296,squareFeet,6098.0,singleFamily,1955
+Riverside,575000,1565,squareFeet,9583.0,singleFamily,1971
+Riverside,769900,2218,squareFeet,9583.0,singleFamily,1959
+Riverside,569900,1404,squareFeet,9148.0,singleFamily,1960
+Riverside,948000,3026,acres,1.5,singleFamily,1969
+Riverside,948800,3564,squareFeet,9148.0,singleFamily,2006
+Riverside,600000,1330,squareFeet,8276.0,singleFamily,1960
+Riverside,799000,1752,acres,0.28999081726354453,singleFamily,1959
+Riverside,649000,1643,squareFeet,7841.0,singleFamily,2007
+Riverside,564900,1404,squareFeet,6970.0,singleFamily,2000
+Riverside,815000,2912,acres,0.31000918273645545,singleFamily,2004
+Riverside,770000,3144,squareFeet,9583.0,singleFamily,2001
+Riverside,575000,1038,squareFeet,6970.0,singleFamily,1952
+Riverside,595000,1072,squareFeet,8276.0,singleFamily,1961
+Riverside,825000,2163,squareFeet,10454.0,singleFamily,1951
+Riverside,835000,2500,squareFeet,10019.0,singleFamily,1948
+Riverside,1375000,3650,acres,0.5,singleFamily,1987
+Riverside,790000,2340,squareFeet,7405.0,singleFamily,1988
+Riverside,769000,1603,acres,0.3399908172635445,singleFamily,1963
+Corpus Christi,280000,2418,acres,0.2508034894398531,singleFamily,1977
+Corpus Christi,300000,2125,acres,0.35,singleFamily,1980
+Corpus Christi,339900,2606,squareFeet,7910.0,singleFamily,1993
+Corpus Christi,350000,2223,squareFeet,6151.0,singleFamily,1996
+Corpus Christi,259900,2086,squareFeet,8034.0,singleFamily,1977
+Corpus Christi,249900,1520,squareFeet,6382.0,singleFamily,1995
+Corpus Christi,264900,2023,squareFeet,6499.0,singleFamily,1979
+Corpus Christi,219900,2173,squareFeet,8107.0,singleFamily,1977
+Corpus Christi,550000,3490,acres,0.27550505050505053,singleFamily,1993
+Corpus Christi,815000,3460,squareFeet,10498.0,singleFamily,1940
+Corpus Christi,300000,2046,squareFeet,7215.0,singleFamily,2002
+Corpus Christi,220000,1950,squareFeet,8372.0,singleFamily,1980
+Corpus Christi,289000,1862,squareFeet,9879.0,singleFamily,1982
+Corpus Christi,725000,3990,acres,0.35369605142332416,singleFamily,1963
+Corpus Christi,220000,1520,squareFeet,5175.0,singleFamily,1986
+Corpus Christi,135000,776,squareFeet,7000.0,singleFamily,1965
+Corpus Christi,59900,420,squareFeet,928.0,condo,1981
+Corpus Christi,315000,2101,squareFeet,5001.0,singleFamily,1998
+Corpus Christi,244999,1585,squareFeet,6721.0,singleFamily,1989
+Corpus Christi,269900,1962,squareFeet,6500.0,singleFamily,1998
+Corpus Christi,550000,2172,acres,5.3,singleFamily,2005
+Corpus Christi,529800,2510,squareFeet,7370.0,singleFamily,2019
+Corpus Christi,180000,1044,squareFeet,10498.0,singleFamily,1940
+Corpus Christi,260000,1287,squareFeet,5001.0,singleFamily,2017
+Corpus Christi,350000,2120,squareFeet,7148.0,singleFamily,2019
+Pittsburgh,615000,2960,acres,0.6443,singleFamily,1965
+Pittsburgh,524899,1998,acres,2.13,singleFamily,1965
+Pittsburgh,199900,866,squareFeet,6860.7,singleFamily,1952
+Pittsburgh,175000,995,squareFeet,3767.94,singleFamily,1950
+Pittsburgh,315000,1812,acres,0.54,singleFamily,1940
+Pittsburgh,769000,,squareFeet,5201.064,singleFamily,1900
+Pittsburgh,220000,1422,squareFeet,6272.64,singleFamily,1954
+Pittsburgh,400000,2563,acres,0.5014,singleFamily,1958
+Pittsburgh,259900,1508,acres,0.3378,singleFamily,1943
+Pittsburgh,330000,,acres,0.53,singleFamily,1950
+Pittsburgh,179900,1102,squareFeet,5292.54,singleFamily,1912
+Pittsburgh,325000,2845,squareFeet,6956.532,singleFamily,1906
+Pittsburgh,129900,,squareFeet,3900.0,singleFamily,
+Pittsburgh,595000,2326,acres,0.51,singleFamily,2004
+Pittsburgh,60000,840,squareFeet,9618.048,singleFamily,1945
+Pittsburgh,450000,2549,squareFeet,9400.248,singleFamily,1930
+Pittsburgh,119900,,squareFeet,4500.0,singleFamily,1955
+Pittsburgh,489900,,acres,2.4,singleFamily,
+Pittsburgh,264900,1725,squareFeet,5662.8,singleFamily,1930
+Pittsburgh,824900,2470,acres,0.4083,singleFamily,1932
+Pittsburgh,599900,2256,squareFeet,10053.648,singleFamily,1967
+Pittsburgh,173000,1370,acres,0.41319999999999996,singleFamily,1976
+Pittsburgh,464000,3133,acres,0.75,singleFamily,1956
+Pittsburgh,299900,1320,squareFeet,6098.4,singleFamily,1955
+Pittsburgh,339900,1234,squareFeet,10497.96,singleFamily,1962
+Anchorage,350000,2024,squareFeet,9147.6,singleFamily,1960
+Anchorage,869000,3614,acres,1.12,singleFamily,1983
+Anchorage,515000,1864,squareFeet,6098.4,singleFamily,1998
+Anchorage,495000,1880,squareFeet,7840.8,singleFamily,1975
+Anchorage,379000,1828,squareFeet,2613.6,townhome,1982
+Anchorage,330000,1144,squareFeet,10018.8,singleFamily,1975
+Anchorage,1600000,3018,acres,0.25,singleFamily,1968
+Anchorage,465000,1536,squareFeet,7840.8,singleFamily,1982
+Anchorage,749000,2601,squareFeet,8276.4,singleFamily,2006
+Anchorage,410000,1906,acres,0.26,singleFamily,1996
+Anchorage,405000,1780,squareFeet,6969.6,singleFamily,1970
+Anchorage,329900,2290,squareFeet,10018.8,singleFamily,1977
+Anchorage,525000,2016,squareFeet,9147.6,singleFamily,1983
+Anchorage,1150000,4481,acres,1.71,singleFamily,1984
+Anchorage,349900,1232,squareFeet,3920.4,singleFamily,1977
+Anchorage,365000,1548,squareFeet,4356.0,singleFamily,1983
+Anchorage,895000,2501,acres,0.5599999999999999,singleFamily,2024
+Anchorage,750000,2673,acres,0.55,singleFamily,1985
+Anchorage,579000,2184,acres,0.95,singleFamily,1984
+Anchorage,380000,1900,squareFeet,7840.8,singleFamily,1976
+Anchorage,745000,1016,acres,2.29,singleFamily,2019
+Anchorage,770000,4431,acres,0.32,singleFamily,1983
+Anchorage,375000,1856,acres,0.62,singleFamily,1966
+Stockton,300000,1088,squareFeet,6446.88,singleFamily,1970
+Stockton,375000,1136,squareFeet,5998.212,singleFamily,1955
+Stockton,540000,2035,squareFeet,9907.0,singleFamily,1996
+Stockton,340000,1115,squareFeet,5048.604,singleFamily,1924
+Stockton,164300,986,squareFeet,5547.0,singleFamily,1947
+Stockton,349000,1139,squareFeet,757.944,condo,1986
+Stockton,380000,1248,squareFeet,8250.264,singleFamily,1955
+Stockton,888000,2781,acres,0.3001,singleFamily,1992
+Stockton,295000,1000,squareFeet,5227.2,singleFamily,1999
+Stockton,650000,3445,squareFeet,6825.852,singleFamily,2003
+Stockton,415000,2041,squareFeet,5000.688,singleFamily,1925
+Stockton,585000,2327,squareFeet,5514.696,singleFamily,2019
+Stockton,299000,1248,squareFeet,7501.032,singleFamily,1956
+Stockton,349950,1968,squareFeet,9347.976,singleFamily,1961
+Stockton,650000,2697,squareFeet,9361.044,singleFamily,2000
+Stockton,769999,2476,acres,0.4224,singleFamily,1957
+Stockton,498850,1902,squareFeet,6276.996,singleFamily,1980
+Stockton,468000,1613,squareFeet,7148.196,singleFamily,1971
+Stockton,1079000,4485,acres,0.3598,singleFamily,1977
+Stockton,588990,2579,squareFeet,6834.564,singleFamily,2006
+Stockton,375000,1393,squareFeet,4748.04,singleFamily,1936
+Stockton,580000,2350,squareFeet,7143.84,singleFamily,2004
+Stockton,199000,1222,squareFeet,2500.344,singleFamily,1955
+Stockton,385000,1164,squareFeet,7300.656,singleFamily,1962
+Stockton,385000,1715,squareFeet,2827.044,condo,1973
+Cincinnati,499000,2109,acres,1.352,singleFamily,1984
+Cincinnati,265000,2395,acres,0.34500000000000003,singleFamily,1927
+Cincinnati,250000,2270,squareFeet,9278.28,singleFamily,1929
+Cincinnati,274900,1498,squareFeet,6621.12,singleFamily,1947
+Cincinnati,679000,2550,acres,1.789,singleFamily,1978
+Cincinnati,289000,1776,squareFeet,8058.6,singleFamily,1977
+Cincinnati,230000,1314,squareFeet,4181.76,singleFamily,1908
+Cincinnati,248500,1221,acres,0.996,singleFamily,1957
+Cincinnati,399000,1558,acres,0.38799999999999996,singleFamily,1959
+Cincinnati,158000,1317,squareFeet,7405.2,singleFamily,1928
+Cincinnati,450000,1967,acres,2.444,singleFamily,1996
+Cincinnati,225000,2180,squareFeet,7840.8,singleFamily,1976
+Cincinnati,619900,2067,acres,0.502,singleFamily,1885
+Cincinnati,699900,2143,squareFeet,5183.64,singleFamily,1920
+Cincinnati,459900,2536,squareFeet,4573.8,singleFamily,1898
+Cincinnati,439900,2630,acres,0.649,singleFamily,1996
+Cincinnati,330000,3787,acres,0.297,multiFamily,1908
+Cincinnati,524000,1506,squareFeet,5000.688,singleFamily,2021
+Cincinnati,595000,3154,acres,0.48,singleFamily,1987
+Cincinnati,795000,1904,squareFeet,10018.8,singleFamily,1905
+Cincinnati,530000,2081,squareFeet,1001.88,multiFamily,1890
+Cincinnati,924000,2622,squareFeet,9583.2,singleFamily,1936
+Cincinnati,495000,2432,squareFeet,8581.32,singleFamily,1929
+Cincinnati,699900,2303,squareFeet,6359.76,singleFamily,1935
+St. Paul,212500,1229,squareFeet,6999.7642,singleFamily,1961
+St. Paul,469900,1461,squareFeet,18.0,singleFamily,1998
+Toledo,399900,3040,acres,0.42010000000000003,singleFamily,1993
+Toledo,49999,800,acres,0.2961,singleFamily,1887
+Toledo,337500,2462,squareFeet,9600.624,singleFamily,1961
+Toledo,234900,1706,squareFeet,9600.624,singleFamily,1962
+Toledo,219900,1598,acres,0.27090000000000003,singleFamily,1957
+Toledo,199900,1537,squareFeet,9600.624,singleFamily,1955
+Toledo,200000,1418,squareFeet,7840.8,singleFamily,1956
+Toledo,219900,1413,squareFeet,10798.524,singleFamily,1952
+Toledo,167000,1237,squareFeet,5601.816,singleFamily,1947
+Toledo,149900,1200,squareFeet,4098.996,singleFamily,1970
+Toledo,175000,1416,squareFeet,6398.964,singleFamily,1912
+Toledo,319900,2484,squareFeet,10280.16,singleFamily,2004
+Toledo,78000,1192,squareFeet,3201.66,singleFamily,1902
+Toledo,149900,1743,acres,0.3191,singleFamily,1942
+Toledo,150000,820,acres,0.2961,singleFamily,1953
+Toledo,139900,1890,squareFeet,6098.4,singleFamily,1922
+Toledo,195000,1549,squareFeet,7901.784,singleFamily,1957
+Toledo,244900,1739,acres,0.2961,singleFamily,1954
+Toledo,189900,1052,squareFeet,6098.4,singleFamily,1969
+Toledo,224900,1514,squareFeet,6699.528,singleFamily,1947
+Toledo,189900,1785,acres,0.2755,singleFamily,1962
+Toledo,139000,988,squareFeet,6599.34,singleFamily,1955
+Toledo,99900,1080,squareFeet,3998.808,singleFamily,1922
+Toledo,169900,1284,squareFeet,4399.56,singleFamily,1929
+Greensboro,725000,3243,acres,0.58,singleFamily,1928
+Greensboro,650000,2968,acres,0.15,singleFamily,1994
+Greensboro,270000,1597,acres,0.26,singleFamily,1989
+Greensboro,215000,1684,acres,0.26,singleFamily,1956
+Greensboro,219900,1574,acres,0.34,singleFamily,1935
+Greensboro,315000,1901,acres,0.2,singleFamily,1992
+Greensboro,250000,1782,acres,0.28,singleFamily,1910
+Greensboro,315000,1530,acres,0.28,singleFamily,2000
+Greensboro,269900,1915,acres,0.04,townhome,1972
+Greensboro,929900,4042,acres,0.4,singleFamily,2007
+Greensboro,289900,1493,acres,0.29,singleFamily,1989
+Greensboro,290000,1393,acres,0.47,singleFamily,1977
+Greensboro,238000,2148,acres,0.0,townhome,1985
+Greensboro,585000,3090,acres,0.48,singleFamily,1988
+Greensboro,375000,1681,acres,0.34,singleFamily,1972
+Greensboro,294500,2368,acres,0.32,singleFamily,1971
+Greensboro,550000,2942,acres,0.57,singleFamily,1994
+Greensboro,369900,1886,acres,0.23,singleFamily,1989
+Greensboro,510000,2831,acres,1.18,singleFamily,2023
+Greensboro,325000,1981,acres,0.25,singleFamily,1965
+Greensboro,329900,2124,acres,1.08,singleFamily,1976
+Greensboro,425000,2578,acres,0.23,singleFamily,1978
+Greensboro,164900,1012,acres,0.11,singleFamily,1920
+Greensboro,540000,3335,acres,0.4,singleFamily,1991
+Greensboro,384900,2235,acres,0.32,singleFamily,1974
+Newark,650000,0,squareFeet,3484.8,multiFamily,2006
+Newark,599000,19998,squareFeet,3484.8,multiFamily,2000
+Newark,449000,3600,squareFeet,2613.6,multiFamily,1914
+Newark,549000,0,squareFeet,4791.6,multiFamily,1930
+Newark,399000,,squareFeet,3049.2,singleFamily,2003
+Newark,529000,2086,squareFeet,2613.6,multiFamily,1908
+Newark,549000,,squareFeet,4356.0,singleFamily,1907
+Newark,274900,1516,squareFeet,2613.6,singleFamily,1997
+Newark,549900,0,squareFeet,3484.8,multiFamily,1939
+Newark,149999,,squareFeet,1306.8,singleFamily,1897
+Newark,425000,,squareFeet,4791.6,singleFamily,1902
+Newark,449000,0,squareFeet,2613.6,multiFamily,1907
+Newark,725000,,squareFeet,4791.6,singleFamily,1908
+Newark,549000,0,squareFeet,2613.6,multiFamily,1882
+Newark,269900,,squareFeet,2613.6,singleFamily,1897
+Newark,499900,,squareFeet,1742.4,singleFamily,
+Newark,240000,0,squareFeet,2500.0,singleFamily,1921
+Newark,479000,,squareFeet,3484.8,singleFamily,1927
+Newark,599000,,squareFeet,7405.2,singleFamily,1907
+Newark,680000,2500,squareFeet,3920.4,multiFamily,1925
+Newark,300000,,squareFeet,3920.4,singleFamily,1922
+Plano,339000,1780,squareFeet,5662.8,singleFamily,1993
+Plano,299900,1260,squareFeet,5227.2,singleFamily,1985
+Plano,529000,2030,squareFeet,8712.0,singleFamily,1993
+Plano,598000,2718,squareFeet,7840.8,singleFamily,1996
+Plano,450000,2336,squareFeet,7840.8,singleFamily,1993
+Plano,390000,1745,squareFeet,9583.2,singleFamily,1982
+Plano,824950,2960,acres,0.33999999999999997,singleFamily,1990
+Plano,389999,2004,squareFeet,8276.4,singleFamily,1976
+Plano,359000,1402,squareFeet,3484.8,townhome,2007
+Plano,579500,2395,squareFeet,9583.2,singleFamily,1993
+Plano,1685000,5516,acres,0.37,singleFamily,1994
+Plano,320000,3202,squareFeet,8712.0,singleFamily,1992
+Plano,799000,3396,squareFeet,8712.0,singleFamily,1997
+Plano,749000,3200,acres,0.25,singleFamily,1989
+Plano,475000,2005,squareFeet,3920.4,singleFamily,1993
+Plano,379980,2162,acres,0.26,singleFamily,1978
+Plano,400000,1535,squareFeet,8712.0,singleFamily,1968
+Plano,340000,2016,squareFeet,5662.8,singleFamily,1989
+Plano,349900,1573,squareFeet,7405.2,singleFamily,1971
+Plano,595000,4015,squareFeet,9147.6,singleFamily,1993
+Plano,320000,1453,squareFeet,9147.6,singleFamily,1981
+Plano,580000,3480,squareFeet,10454.4,singleFamily,1984
+Plano,985000,4521,acres,0.25,singleFamily,1996
+Plano,550000,1906,squareFeet,9583.2,singleFamily,1981
+Plano,490000,1867,squareFeet,9147.6,singleFamily,1976
+Henderson,509900,2059,squareFeet,4356.0,singleFamily,1994
+Henderson,573000,2531,squareFeet,7405.2,singleFamily,1983
+Henderson,430000,1377,squareFeet,5662.8,singleFamily,1998
+Henderson,3780000,11001,acres,1.16,singleFamily,2007
+Henderson,739900,3014,squareFeet,6534.0,singleFamily,2000
+Henderson,499000,1493,squareFeet,4356.0,singleFamily,1994
+Henderson,435000,1459,acres,0.70188246097337,condo,2009
+Henderson,699999,2036,acres,0.37,singleFamily,1977
+Henderson,699900,2400,squareFeet,6969.6,singleFamily,2005
+Henderson,390000,1464,squareFeet,3049.2,townhome,1999
+Henderson,499900,1768,squareFeet,7840.8,singleFamily,2004
+Henderson,1289000,3169,acres,0.32,singleFamily,1994
+Henderson,449900,1981,squareFeet,7840.8,singleFamily,1990
+Henderson,375000,1786,squareFeet,3049.2,singleFamily,2011
+Henderson,510000,1600,squareFeet,6098.4,singleFamily,2005
+Henderson,615000,2222,squareFeet,10018.8,singleFamily,1979
+Henderson,399000,1416,squareFeet,7840.8,singleFamily,1983
+Henderson,719000,3063,squareFeet,8276.4,singleFamily,1988
+Henderson,385000,1676,squareFeet,6098.4,singleFamily,1952
+Henderson,675000,2169,squareFeet,6534.0,singleFamily,2013
+Henderson,450000,1356,squareFeet,6534.0,singleFamily,1994
+Henderson,575000,1976,squareFeet,8276.4,singleFamily,1996
+Henderson,299000,1263,squareFeet,2178.0,townhome,1997
+Henderson,620000,2279,squareFeet,7405.2,singleFamily,1997
+Lincoln,229900,2184,squareFeet,6098.4,singleFamily,1912
+Lincoln,379900,2450,squareFeet,8276.4,singleFamily,1964
+Lincoln,374900,1419,squareFeet,6098.4,singleFamily,2003
+Lincoln,460000,2588,squareFeet,6969.6,singleFamily,1933
+Lincoln,278000,1668,squareFeet,6534.0,singleFamily,1976
+Lincoln,249900,1424,squareFeet,7840.8,singleFamily,1976
+Lincoln,375000,3310,squareFeet,8712.0,singleFamily,1920
+Lincoln,310000,1474,squareFeet,7840.8,singleFamily,2001
+Lincoln,475000,2667,squareFeet,8276.4,singleFamily,2010
+Lincoln,265000,1974,squareFeet,6969.6,singleFamily,1989
+Lincoln,2100000,6378,acres,6.44,singleFamily,1980
+Lincoln,1425000,6911,acres,0.75,singleFamily,2021
+Lincoln,739900,2793,acres,0.55,singleFamily,1972
+Lincoln,925000,3175,squareFeet,5662.8,townhome,2019
+Lincoln,269000,1636,squareFeet,9147.6,singleFamily,1958
+Lincoln,355900,2150,acres,0.26,singleFamily,1987
+Lincoln,615000,3602,squareFeet,8712.0,singleFamily,2015
+Lincoln,375000,2372,squareFeet,7405.2,singleFamily,1990
+Lincoln,185000,1042,squareFeet,6969.6,singleFamily,1951
+Lincoln,469000,3574,squareFeet,9583.2,singleFamily,2004
+Lincoln,329900,1901,squareFeet,8712.0,singleFamily,1956
+Lincoln,349000,1907,squareFeet,8276.4,singleFamily,1962
+Lincoln,184000,933,squareFeet,2613.6,singleFamily,1920
+Lincoln,310000,1944,squareFeet,9147.6,singleFamily,1966
+Lincoln,160000,1774,squareFeet,6969.6,singleFamily,1958
+Buffalo,424990,1518,squareFeet,7400.844,singleFamily,1926
+Buffalo,295500,1664,acres,0.2663,singleFamily,1962
+Buffalo,159900,1112,squareFeet,8276.4,singleFamily,1942
+Buffalo,1,1140,squareFeet,5662.8,singleFamily,1962
+Buffalo,239000,1516,squareFeet,4373.424,singleFamily,1929
+Buffalo,229777,1660,squareFeet,4033.656,singleFamily,1936
+Buffalo,389000,1232,squareFeet,875.556,singleFamily,1900
+Buffalo,389000,2404,acres,0.2915,multiFamily,2012
+Buffalo,239000,1832,squareFeet,3049.2,multiFamily,1926
+Buffalo,265000,2187,squareFeet,8276.4,singleFamily,1972
+Buffalo,239900,1494,squareFeet,10454.4,singleFamily,1945
+Buffalo,259900,1405,squareFeet,5662.8,singleFamily,1971
+Buffalo,319500,1296,squareFeet,5889.312,singleFamily,1935
+Buffalo,170000,2221,squareFeet,3484.8,multiFamily,1875
+Buffalo,199900,1601,squareFeet,6098.4,singleFamily,1937
+Buffalo,59900,2564,squareFeet,3271.356,multiFamily,1920
+Buffalo,224900,1220,squareFeet,4791.6,singleFamily,1963
+Buffalo,249900,1273,squareFeet,4721.904,singleFamily,1939
+Buffalo,209900,1042,squareFeet,7840.8,singleFamily,1952
+Buffalo,342500,1678,acres,0.2669,singleFamily,1984
+Buffalo,329900,1625,squareFeet,8398.368,singleFamily,1964
+Buffalo,284900,1744,squareFeet,8855.748,singleFamily,1930
+Buffalo,299900,1751,squareFeet,5662.8,singleFamily,1969
+Buffalo,259900,1612,squareFeet,8794.764,singleFamily,1985
+Buffalo,349900,1341,acres,0.36,singleFamily,1927
+Jersey City,1399000,2183,squareFeet,1275.0,singleFamily,
+Jersey City,949999,0,squareFeet,2178.0,multiFamily,2021
+Jersey City,325000,1050,acres,0.41,condo,2005
+Jersey City,499000,19998,squareFeet,2613.6,multiFamily,1915
+Jersey City,699000,1308,squareFeet,1400.0,singleFamily,
+Jersey City,699000,0,squareFeet,1306.8,multiFamily,1900
+Jersey City,499999,848,squareFeet,1306.8,singleFamily,1895
+Jersey City,825000,1454,squareFeet,1653.3,singleFamily,
+Chula Vista,999000,2190,squareFeet,7405.2,singleFamily,1959
+Chula Vista,1000000,2150,squareFeet,6969.6,singleFamily,1975
+Chula Vista,899999,1755,squareFeet,8276.4,singleFamily,1975
+Chula Vista,900000,2143,squareFeet,4614.0,singleFamily,2018
+Chula Vista,999999,2550,squareFeet,6534.0,singleFamily,1996
+Chula Vista,1799999,3915,acres,1.23,singleFamily,2012
+Chula Vista,1250000,2790,squareFeet,6661.0,singleFamily,2004
+Chula Vista,899000,1883,squareFeet,7405.2,singleFamily,1971
+Chula Vista,599000,1800,acres,0.26,singleFamily,1978
+Chula Vista,899000,1996,squareFeet,7405.2,singleFamily,1987
+Chula Vista,809000,2960,acres,0.49000000000000005,singleFamily,1961
+Chula Vista,50000,,acres,1.08,land,
+Chula Vista,865000,1434,squareFeet,8712.0,singleFamily,1951
+Chula Vista,825000,2075,acres,25.66,condo,2006
+Chula Vista,899999,2166,acres,11.0864,singleFamily,2022
+Chula Vista,1050000,2233,squareFeet,5779.0,singleFamily,2004
+Fort Wayne,749900,5136,acres,0.9199999999999999,singleFamily,1992
+Fort Wayne,169900,1582,acres,0.42000000000000004,singleFamily,1962
+Fort Wayne,259900,2594,squareFeet,10454.4,singleFamily,1967
+Fort Wayne,285000,2342,acres,0.33999999999999997,singleFamily,1973
+Fort Wayne,209000,1528,acres,0.36,singleFamily,1967
+Fort Wayne,165000,1112,acres,1.05,singleFamily,1946
+Fort Wayne,154900,1175,squareFeet,4356.0,singleFamily,1950
+Fort Wayne,499900,3082,acres,0.27,singleFamily,2008
+Fort Wayne,159995,1088,acres,1.04,singleFamily,1946
+Fort Wayne,260000,1590,acres,0.5335,singleFamily,1968
+Fort Wayne,299900,2252,acres,5.066,singleFamily,1969
+Fort Wayne,274900,1949,squareFeet,9147.6,singleFamily,2006
+Fort Wayne,289900,1690,acres,0.42000000000000004,singleFamily,1995
+Fort Wayne,350000,3206,squareFeet,9147.6,singleFamily,2004
+Fort Wayne,410000,1380,acres,5.29,singleFamily,1953
+Fort Wayne,154900,1440,acres,1.56,manufactured,1977
+Fort Wayne,590000,3683,acres,0.42000000000000004,singleFamily,2004
+Fort Wayne,409900,2546,acres,0.27999999999999997,singleFamily,1996
+Fort Wayne,409000,1867,acres,0.25,singleFamily,2006
+Fort Wayne,224900,2138,acres,0.32999999999999996,singleFamily,1960
+Fort Wayne,399900,2118,acres,0.35,singleFamily,2018
+Fort Wayne,245900,1303,squareFeet,9940.392,singleFamily,1990
+Fort Wayne,295000,2942,acres,0.36,singleFamily,1971
+Fort Wayne,249900,1768,acres,0.35,singleFamily,1955
+Orlando,370000,1170,squareFeet,5250.0,singleFamily,1996
+Orlando,499999,2441,squareFeet,5284.0,singleFamily,2002
+Orlando,525000,2357,squareFeet,7951.0,singleFamily,1994
+Orlando,699900,3249,squareFeet,6125.0,singleFamily,2016
+Orlando,465000,2643,acres,0.275,singleFamily,2000
+Orlando,650000,2756,squareFeet,9807.0,singleFamily,2006
+Orlando,715000,3553,squareFeet,9201.0,singleFamily,2003
+Orlando,700000,2726,squareFeet,9359.0,singleFamily,2001
+Orlando,275000,1364,squareFeet,4617.0,multiFamily,1983
+Orlando,388000,1264,squareFeet,5400.0,singleFamily,2002
+Orlando,999999,3784,squareFeet,7748.0,singleFamily,2021
+Orlando,439000,1144,squareFeet,6578.0,singleFamily,1954
+Orlando,499999,1257,squareFeet,10157.0,singleFamily,1949
+Orlando,1199000,3811,acres,0.44478879706152435,singleFamily,2005
+Orlando,326900,1650,squareFeet,8242.0,singleFamily,1978
+Orlando,415000,1851,acres,0.2626492194674013,singleFamily,2001
+Orlando,549000,2261,squareFeet,9184.0,singleFamily,1986
+Orlando,419000,2301,squareFeet,7870.0,singleFamily,1994
+Orlando,1999000,4680,acres,10.0035,singleFamily,1991
+Orlando,390000,870,squareFeet,7785.0,singleFamily,1948
+Orlando,305000,1173,squareFeet,7290.0,singleFamily,1968
+Orlando,435000,2805,acres,0.2999540863177227,singleFamily,1991
+Orlando,450000,2029,acres,0.436455463728191,singleFamily,1984
+Orlando,305000,1454,acres,0.3136593204775023,condo,1985
+St. Petersburg,799000,1888,acres,0.26239669421487605,singleFamily,1973
+St. Petersburg,6250000,6060,squareFeet,10598.0,singleFamily,1983
+St. Petersburg,825000,1869,squareFeet,9483.0,singleFamily,1953
+St. Petersburg,849950,1874,acres,0.3612947658402204,singleFamily,1966
+St. Petersburg,4450000,4087,acres,0.6634986225895316,singleFamily,2015
+St. Petersburg,350000,1064,squareFeet,7501.0,singleFamily,1954
+St. Petersburg,525000,1352,squareFeet,7789.0,singleFamily,1956
+St. Petersburg,425000,1475,squareFeet,8451.0,singleFamily,1950
+St. Petersburg,420000,1041,squareFeet,6033.0,singleFamily,1932
+St. Petersburg,165000,1012,squareFeet,6386.0,singleFamily,1948
+St. Petersburg,785000,2546,squareFeet,8320.0,singleFamily,1940
+St. Petersburg,424900,1657,squareFeet,8716.0,singleFamily,1958
+St. Petersburg,430000,1628,squareFeet,9862.0,singleFamily,1962
+St. Petersburg,615000,1532,squareFeet,9993.0,singleFamily,1958
+St. Petersburg,495000,1752,squareFeet,9810.0,singleFamily,1964
+St. Petersburg,255000,1437,squareFeet,7758.0,singleFamily,1953
+St. Petersburg,485000,1430,squareFeet,6042.0,singleFamily,1977
+St. Petersburg,339900,1422,acres,0.25601469237832875,singleFamily,1969
+St. Petersburg,799000,1304,squareFeet,5232.0,singleFamily,1947
+St. Petersburg,549000,2263,squareFeet,7854.0,singleFamily,1958
+St. Petersburg,700000,1303,squareFeet,6390.0,singleFamily,1949
+St. Petersburg,349900,1923,squareFeet,5798.0,singleFamily,1964
+St. Petersburg,1490000,4828,acres,0.33659320477502297,singleFamily,1925
+Chandler,675000,2266,squareFeet,8960.0,singleFamily,1995
+Chandler,775000,3132,squareFeet,7610.0,singleFamily,1997
+Chandler,1039900,4046,acres,0.4134986225895317,singleFamily,2004
+Chandler,815000,2792,squareFeet,7894.0,singleFamily,2003
+Chandler,2700000,5665,acres,0.508356290174472,singleFamily,2023
+Chandler,715000,2747,squareFeet,10459.0,singleFamily,1997
+Chandler,690000,2126,acres,0.25493572084481175,singleFamily,2001
+Chandler,875000,3138,squareFeet,7569.0,singleFamily,2005
+Chandler,1425000,3424,acres,0.25713957759412304,singleFamily,2017
+Chandler,630000,2585,squareFeet,9273.0,singleFamily,1986
+Chandler,439900,1528,squareFeet,5397.0,singleFamily,1993
+Chandler,500000,1647,squareFeet,7131.0,singleFamily,1992
+Chandler,475000,1784,squareFeet,7784.0,singleFamily,1979
+Chandler,226500,1344,squareFeet,1860.0,manufactured,2024
+Chandler,425000,1342,squareFeet,9378.0,singleFamily,1983
+Chandler,391500,1339,squareFeet,5576.0,singleFamily,1983
+Chandler,665000,2473,squareFeet,7776.0,singleFamily,2018
+Chandler,799000,2492,squareFeet,9762.0,singleFamily,1995
+Chandler,549000,1689,squareFeet,8655.0,singleFamily,2003
+Chandler,550000,2561,squareFeet,2983.0,singleFamily,2015
+Chandler,839999,3359,squareFeet,10579.0,singleFamily,2002
+Chandler,450000,1263,squareFeet,4948.0,singleFamily,1988
+Chandler,2690000,4925,acres,0.7592056932966024,singleFamily,1979
+Chandler,975000,3176,squareFeet,8429.0,singleFamily,1998
+Chandler,650000,2111,squareFeet,9282.0,singleFamily,1994
+Laredo,490000,2445,squareFeet,10010.0,singleFamily,2017
+Laredo,357000,1676,squareFeet,7088.0,singleFamily,2002
+Laredo,662000,4762,acres,0.5800275482093664,singleFamily,2002
+Laredo,295000,1614,squareFeet,6662.0,singleFamily,2001
+Laredo,415000,2587,squareFeet,5175.0,singleFamily,2022
+Laredo,141000,1314,squareFeet,6348.0,singleFamily,1970
+Laredo,285000,1922,squareFeet,9646.0,singleFamily,2002
+Laredo,1350000,3060,acres,10.7152,singleFamily,2017
+Laredo,1599999,4738,acres,0.5615472910927456,singleFamily,2005
+Laredo,460000,3416,squareFeet,9019.0,singleFamily,2011
+Laredo,284000,1547,squareFeet,7021.0,singleFamily,1997
+Laredo,269900,2999,squareFeet,6814.0,singleFamily,1981
+Laredo,1275000,3697,acres,0.4724517906336088,singleFamily,2016
+Laredo,182000,1290,squareFeet,5497.272,singleFamily,2009
+Laredo,274500,1998,squareFeet,8204.0,singleFamily,2003
+Laredo,288500,1660,squareFeet,7079.0,singleFamily,1988
+Laredo,225000,1360,squareFeet,4840.0,singleFamily,2021
+Laredo,198720,1301,squareFeet,6830.0,singleFamily,1992
+Laredo,170000,1235,squareFeet,6422.0,singleFamily,1949
+Laredo,219000,1862,squareFeet,7125.0,singleFamily,1982
+Laredo,275000,1330,squareFeet,6135.0,singleFamily,1997
+Laredo,195000,1080,squareFeet,5388.0,singleFamily,2003
+Laredo,269000,1953,squareFeet,5178.0,singleFamily,2007
+Laredo,189000,1236,squareFeet,5621.0,singleFamily,2020
+Laredo,235000,1514,squareFeet,4668.0,singleFamily,2019
+Norfolk,799900,2662,acres,8.7,singleFamily,
+Norfolk,574900,2048,acres,0.75,singleFamily,
+Norfolk,575000,900,squareFeet,8886.24,singleFamily,1960
+Norfolk,649850,1025,squareFeet,6550.86,singleFamily,1976
+Norfolk,399900,1400,squareFeet,2700.72,singleFamily,
+Norfolk,100000,,squareFeet,7840.8,land,
+Norfolk,774900,1464,squareFeet,2613.6,townhome,2019
+Norfolk,624990,1578,acres,0.53,singleFamily,1900
+Norfolk,549000,997,acres,0.38,singleFamily,1917
+Norfolk,1149900,1680,acres,0.6599999999999999,singleFamily,
+Norfolk,749900,1200,acres,0.26,singleFamily,2000
+Norfolk,1299000,2126,acres,0.6900000000000001,singleFamily,
+Norfolk,379900,2730,acres,0.252,singleFamily,1889
+Norfolk,499900,,acres,0.8043388429752066,land,
+Durham,675000,2583,acres,0.48,singleFamily,1991
+Durham,425000,1069,squareFeet,7405.2,singleFamily,1961
+Durham,349900,1551,squareFeet,2178.0,townhome,1985
+Durham,1195000,2539,squareFeet,3920.4,townhome,2019
+Durham,319900,1268,squareFeet,8276.4,singleFamily,1992
+Durham,299000,1453,acres,0.5,singleFamily,1965
+Durham,530000,2465,acres,0.45999999999999996,singleFamily,1965
+Durham,650000,3038,acres,0.31,singleFamily,2015
+Durham,239900,1043,squareFeet,7405.2,townhome,1985
+Durham,370000,1783,acres,0.52,singleFamily,1977
+Durham,550000,2365,squareFeet,9583.2,singleFamily,1999
+Durham,675000,2515,acres,0.45,singleFamily,1973
+Durham,400000,1885,acres,0.45999999999999996,singleFamily,1971
+Durham,465000,2362,squareFeet,1742.4,townhome,2022
+Durham,295000,1382,squareFeet,9147.6,singleFamily,1996
+Durham,329000,1778,squareFeet,10018.8,singleFamily,1996
+Durham,695000,2608,acres,0.6799999999999999,singleFamily,1972
+Durham,350000,1527,acres,0.75,singleFamily,1974
+Durham,1295000,4154,acres,0.52,singleFamily,1988
+Durham,289000,1323,acres,0.27999999999999997,singleFamily,1966
+Durham,429000,1662,squareFeet,10454.4,singleFamily,1998
+Durham,1100000,2837,acres,0.27999999999999997,singleFamily,1925
+Durham,735000,4218,acres,0.52,singleFamily,1993
+Durham,390000,2416,squareFeet,8276.4,singleFamily,2013
+Durham,379000,940,squareFeet,7405.2,singleFamily,1953
+Madison,399900,1492,acres,0.27,singleFamily,1993
+Madison,335000,756,squareFeet,4356.0,singleFamily,1935
+Madison,319900,1884,squareFeet,5227.2,singleFamily,1939
+Madison,475000,2582,squareFeet,9147.6,singleFamily,1971
+Madison,419000,1593,acres,0.26,singleFamily,1950
+Madison,625000,1122,squareFeet,6969.6,singleFamily,1938
+Madison,750000,1920,squareFeet,6534.0,singleFamily,1909
+Madison,349000,2288,squareFeet,8276.4,singleFamily,1964
+Madison,320000,991,squareFeet,6098.4,singleFamily,1948
+Madison,779000,3960,squareFeet,10454.4,multiFamily,1984
+Madison,349900,1340,squareFeet,7405.2,singleFamily,1965
+Madison,480000,1070,squareFeet,4356.0,singleFamily,1894
+Madison,390000,1564,squareFeet,6098.4,singleFamily,1953
+Madison,479900,2547,squareFeet,10018.8,singleFamily,1992
+Madison,445000,2296,acres,0.25,singleFamily,1970
+Madison,795000,4956,acres,0.32,multiFamily,1985
+Madison,275000,953,squareFeet,3484.8,singleFamily,1873
+Madison,450000,1642,squareFeet,8712.0,singleFamily,1961
+Madison,600000,2306,acres,0.25,singleFamily,1990
+Madison,460000,1896,squareFeet,7405.2,singleFamily,2000
+Lubbock,489900,3225,squareFeet,10454.4,singleFamily,1984
+Lubbock,211500,1744,squareFeet,8276.4,singleFamily,1993
+Lubbock,279900,2086,squareFeet,8712.0,singleFamily,1991
+Lubbock,230000,1375,squareFeet,6098.4,singleFamily,2011
+Lubbock,132500,1393,squareFeet,8712.0,singleFamily,1960
+Lubbock,248500,2428,squareFeet,9147.6,singleFamily,1973
+Lubbock,99999,2000,squareFeet,6969.6,singleFamily,2013
+Lubbock,499000,2992,acres,1.28,singleFamily,2014
+Lubbock,370000,2019,squareFeet,8712.0,singleFamily,2014
+Lubbock,275000,2131,squareFeet,6969.6,singleFamily,1974
+Lubbock,294000,2323,squareFeet,9583.2,singleFamily,1954
+Lubbock,325000,2524,squareFeet,8712.0,singleFamily,1976
+Lubbock,190000,1651,squareFeet,6969.6,singleFamily,1982
+Lubbock,120000,1584,squareFeet,10454.4,singleFamily,1953
+Lubbock,625000,2861,squareFeet,9583.2,singleFamily,2020
+Lubbock,205000,1443,squareFeet,5227.2,singleFamily,2005
+Lubbock,210000,1650,squareFeet,6969.6,singleFamily,1977
+Lubbock,599999,2919,acres,1.0,singleFamily,2022
+Lubbock,519900,2615,squareFeet,8712.0,singleFamily,2025
+Lubbock,235000,1920,squareFeet,8276.4,singleFamily,1979
+Lubbock,275000,1900,squareFeet,6098.4,singleFamily,2018
+Lubbock,590000,2951,squareFeet,9147.6,singleFamily,2016
+Lubbock,195000,1519,squareFeet,6534.0,singleFamily,2002
+Lubbock,565000,3851,squareFeet,9147.6,singleFamily,1985
+Lubbock,250000,2477,acres,1.07,singleFamily,1970
+Irvine,1500000,1281,squareFeet,3300.0,singleFamily,1988
+Irvine,2098888,3196,squareFeet,4000.0,condo,2017
+Irvine,2500000,2357,acres,2.0547,singleFamily,1985
+Irvine,600000,1261,acres,0.6790174471992654,condo,2006
+Irvine,1688000,1704,acres,0.40342056932966025,condo,2015
+Irvine,2595000,2567,squareFeet,5000.0,singleFamily,1980
+Irvine,1838000,2075,squareFeet,5000.0,singleFamily,2017
+Irvine,1828888,1950,squareFeet,4465.0,singleFamily,1980
+Irvine,929888,1443,squareFeet,1500.0,townhome,1990
+Irvine,1338000,1731,acres,0.7418732782369146,condo,2013
+Irvine,1980000,2352,acres,2.3073,condo,1984
+Irvine,1299888,1050,squareFeet,5000.0,singleFamily,1971
+Irvine,2499000,3273,squareFeet,5225.0,singleFamily,1977
+Irvine,1899000,2650,squareFeet,5000.0,singleFamily,1973
+Irvine,1598000,1502,squareFeet,5054.0,singleFamily,1978
+Irvine,1398000,1350,squareFeet,2015.0,singleFamily,1998
+Irvine,825000,865,acres,1.2145,condo,1988
+Irvine,999999,1260,acres,3.1775,condo,1982
+Irvine,1288000,1300,squareFeet,4000.0,condo,1984
+Irvine,2988800,3625,squareFeet,5000.0,singleFamily,2025
+Irvine,998000,1532,acres,0.2886593204775023,townhome,2004
+Irvine,1498000,1592,squareFeet,6000.0,singleFamily,1968
+Winston-Salem,379900,2203,acres,1.05,singleFamily,1984
+Winston-Salem,399900,2595,acres,4.58,singleFamily,1955
+Winston-Salem,97900,2703,acres,0.43,singleFamily,1978
+Winston-Salem,230000,1729,acres,0.24,singleFamily,1994
+Winston-Salem,175000,2182,acres,0.21,singleFamily,1930
+Winston-Salem,599900,2235,acres,0.36,singleFamily,1962
+Winston-Salem,599500,2580,acres,1.2,singleFamily,1966
+Winston-Salem,615000,3397,acres,0.54,singleFamily,1965
+Winston-Salem,300000,2266,acres,0.46,singleFamily,1975
+Winston-Salem,405000,2076,acres,0.366,singleFamily,1994
+Winston-Salem,335000,3186,acres,0.59,singleFamily,1956
+Winston-Salem,715000,2562,acres,0.55,singleFamily,1948
+Winston-Salem,367900,2008,acres,1.13,singleFamily,1927
+Winston-Salem,200000,1328,acres,0.48,singleFamily,1963
+Winston-Salem,250000,1930,acres,0.55,singleFamily,1961
+Winston-Salem,950000,4476,acres,2.42,singleFamily,1975
+Winston-Salem,419900,1615,acres,0.248,singleFamily,1930
+Winston-Salem,399000,2322,acres,0.3,singleFamily,1987
+Winston-Salem,169900,1970,acres,0.23,singleFamily,1957
+Winston-Salem,575000,3198,acres,0.41,singleFamily,1954
+Winston-Salem,309900,1583,acres,0.24,singleFamily,2003
+Winston-Salem,559000,3789,acres,0.51,singleFamily,1957
+Winston-Salem,139000,1187,acres,0.28,singleFamily,1972
+Winston-Salem,225000,1384,acres,0.91,singleFamily,1962
+Glendale,350000,1460,squareFeet,6918.0,singleFamily,1963
+Glendale,400000,1398,squareFeet,4275.0,singleFamily,2021
+Glendale,380000,1822,squareFeet,7671.0,singleFamily,1979
+Glendale,450000,1627,acres,0.8026859504132231,singleFamily,1955
+Glendale,330000,1075,acres,0.25734618916437096,singleFamily,1976
+Glendale,499000,1818,squareFeet,7237.0,singleFamily,1990
+Glendale,450000,1808,acres,0.287465564738292,singleFamily,1978
+Glendale,406550,2110,squareFeet,8472.0,singleFamily,2022
+Glendale,475000,2665,squareFeet,9827.0,singleFamily,1972
+Glendale,310000,1360,squareFeet,4883.0,singleFamily,1985
+Glendale,785000,3626,acres,0.3447887970615243,singleFamily,2005
+Glendale,380000,1194,squareFeet,8000.0,singleFamily,1979
+Glendale,389900,1529,squareFeet,5750.0,singleFamily,2020
+Glendale,141500,964,squareFeet,8113.0,singleFamily,1945
+Glendale,599000,2875,squareFeet,6000.0,singleFamily,2021
+Glendale,672000,2940,squareFeet,9292.0,singleFamily,1995
+Glendale,420000,1612,squareFeet,7444.0,singleFamily,1972
+Glendale,179000,1433,squareFeet,9640.0,manufactured,1973
+Glendale,185000,912,squareFeet,61.0,condo,1983
+Glendale,455000,1965,squareFeet,9374.0,singleFamily,1990
+Glendale,499900,1750,squareFeet,9796.0,singleFamily,1975
+Glendale,449000,2734,acres,0.4922635445362718,singleFamily,1974
+Glendale,429900,2105,squareFeet,9611.0,singleFamily,1987
+Garland,75000,2917,squareFeet,10715.76,singleFamily,2013
+Garland,245000,1226,squareFeet,7143.84,singleFamily,1960
+Garland,575000,2108,squareFeet,5270.76,singleFamily,1978
+Garland,249900,1800,acres,0.25,singleFamily,1969
+Garland,150000,1395,squareFeet,9888.12,singleFamily,1950
+Garland,470000,2338,acres,0.298,singleFamily,1981
+Garland,299000,1516,acres,0.27299999999999996,singleFamily,2025
+Garland,325000,2687,squareFeet,7318.08,singleFamily,1962
+Garland,245000,1921,acres,0.25,singleFamily,1955
+Garland,295000,1551,squareFeet,9016.92,singleFamily,1960
+Garland,240000,1119,squareFeet,8698.932,singleFamily,1981
+Garland,419900,2109,acres,0.381,singleFamily,2015
+Garland,219500,1104,squareFeet,8145.72,singleFamily,1971
+Garland,234586,1259,squareFeet,7971.48,singleFamily,1970
+Garland,265000,1421,squareFeet,7492.32,singleFamily,1971
+Garland,393000,1960,squareFeet,8624.88,singleFamily,1977
+Garland,369900,2076,squareFeet,10018.8,singleFamily,1974
+Garland,325000,1580,acres,0.324,singleFamily,1954
+Garland,200000,1386,squareFeet,5967.72,singleFamily,1986
+Garland,1200000,4543,acres,0.529,singleFamily,2005
+Garland,197000,1019,acres,4.66,condo,1984
+Garland,214900,1576,squareFeet,4051.08,singleFamily,1986
+Garland,375000,2679,acres,0.252,singleFamily,1973
+Garland,350000,2253,acres,0.371,singleFamily,1984
+Garland,699000,3448,acres,0.251,singleFamily,2007
+Hialeah,550000,1520,squareFeet,6750.0,singleFamily,1946
+Hialeah,675000,1173,squareFeet,7592.508,singleFamily,1967
+Hialeah,725000,2881,squareFeet,4895.0,singleFamily,1993
+Hialeah,685000,2406,squareFeet,4029.0,singleFamily,2018
+Hialeah,599000,1000,squareFeet,6750.0,singleFamily,1959
+Hialeah,740000,2263,squareFeet,3361.0,singleFamily,2020
+Hialeah,460000,1285,squareFeet,2729.0,singleFamily,1990
+Hialeah,975000,2838,squareFeet,10789.0,singleFamily,1979
+Hialeah,340000,728,squareFeet,2250.0,singleFamily,1965
+Hialeah,975000,3101,acres,0.3,singleFamily,1986
+Hialeah,899000,1818,squareFeet,8250.0,singleFamily,1968
+Hialeah,769900,2227,squareFeet,7500.0,singleFamily,1956
+Hialeah,650000,1570,squareFeet,9663.0,singleFamily,1954
+Hialeah,730000,1630,squareFeet,8215.0,singleFamily,1955
+Hialeah,985000,3190,squareFeet,8625.0,singleFamily,1986
+Hialeah,699900,2215,squareFeet,10133.0,singleFamily,1965
+Hialeah,579900,1187,squareFeet,5555.0,singleFamily,1950
+Reno,919000,2516,acres,0.32999999999999996,singleFamily,2005
+Reno,1300000,2904,acres,0.36,singleFamily,2004
+Reno,775000,1956,acres,0.4,singleFamily,1958
+Reno,525000,1554,squareFeet,6098.4,singleFamily,1974
+Reno,425000,1300,acres,0.52,singleFamily,1979
+Reno,479000,1696,acres,0.44000000000000006,singleFamily,2000
+Reno,899000,2625,acres,0.32999999999999996,singleFamily,1968
+Reno,950000,2196,acres,0.27999999999999997,singleFamily,1948
+Reno,2950000,4404,acres,1.17,singleFamily,2001
+Reno,875000,2202,acres,0.43,singleFamily,1997
+Reno,525000,2122,squareFeet,10018.8,singleFamily,2002
+Reno,450000,1444,acres,0.44000000000000006,singleFamily,1979
+Reno,1090000,2982,acres,0.32999999999999996,singleFamily,1963
+Reno,720000,2711,squareFeet,6098.4,singleFamily,2008
+Reno,200000,1370,squareFeet,6098.4,singleFamily,1961
+Reno,2399000,3590,acres,0.42000000000000004,singleFamily,1985
+Reno,449000,1055,squareFeet,3484.8,singleFamily,1914
+Reno,390000,1296,acres,0.3,singleFamily,1971
+Reno,1175000,2569,squareFeet,9583.2,singleFamily,2020
+Reno,290000,1536,squareFeet,7405.2,manufactured,1975
+Reno,749900,1660,acres,0.93,singleFamily,1966
+Reno,699900,2358,squareFeet,6534.0,singleFamily,2005
+Reno,449000,1608,acres,0.29,singleFamily,2005
+Chesapeake,725000,3251,acres,3.0,singleFamily,1983
+Chesapeake,554990,2900,acres,0.32999999999999996,singleFamily,1988
+Chesapeake,399900,1584,acres,0.26,singleFamily,1961
+Chesapeake,1099000,4164,acres,3.0,singleFamily,1987
+Chesapeake,510000,2530,acres,0.317,singleFamily,1996
+Chesapeake,550000,2434,acres,0.991,singleFamily,2014
+Chesapeake,674900,3800,squareFeet,10585.08,singleFamily,1985
+Chesapeake,230000,1433,squareFeet,8886.24,singleFamily,1966
+Chesapeake,650000,2425,acres,3.25,singleFamily,1986
+Chesapeake,500000,1966,acres,0.4,singleFamily,1968
+Chesapeake,575000,2900,acres,0.74,singleFamily,1990
+Chesapeake,699000,2376,acres,3.0,singleFamily,2025
+Chesapeake,565000,2894,acres,0.611,singleFamily,1941
+Gilbert,665000,2972,squareFeet,6325.0,singleFamily,2015
+Gilbert,579000,1729,squareFeet,7291.0,singleFamily,1999
+Gilbert,19995000,9326,acres,4.3567,singleFamily,2003
+Gilbert,698000,3249,acres,0.25110192837465567,singleFamily,1999
+Gilbert,450000,1433,squareFeet,5053.0,singleFamily,1997
+Gilbert,415000,1562,squareFeet,6961.0,singleFamily,1986
+Gilbert,469900,1549,squareFeet,5571.0,singleFamily,1997
+Gilbert,599900,1597,squareFeet,10489.0,singleFamily,1994
+Gilbert,1109000,3566,acres,0.29517906336088157,singleFamily,2018
+Gilbert,1495000,4997,acres,0.6325987144168962,singleFamily,2004
+Gilbert,599000,2329,squareFeet,7080.0,singleFamily,2004
+Gilbert,675000,3284,squareFeet,9630.0,singleFamily,1999
+Gilbert,1050000,4902,squareFeet,10841.0,singleFamily,2008
+Gilbert,1330000,4400,acres,1.1451,singleFamily,1975
+Gilbert,685000,3115,squareFeet,8039.0,singleFamily,2001
+Gilbert,1000000,4264,squareFeet,10045.0,singleFamily,2012
+Gilbert,830000,3242,squareFeet,7800.0,singleFamily,2008
+Gilbert,2250000,5172,acres,0.49240128558310375,singleFamily,2014
+Gilbert,575897,2389,acres,0.2856060606060606,singleFamily,1997
+Gilbert,410000,1613,squareFeet,4064.0,singleFamily,1992
+Gilbert,410000,1647,squareFeet,5641.0,singleFamily,1987
+Gilbert,380000,1375,squareFeet,2655.0,singleFamily,2007
+Gilbert,4700000,4614,acres,3.6939,singleFamily,1988
+Gilbert,1150000,3532,acres,0.3023415977961432,singleFamily,2016
+Gilbert,700000,2360,squareFeet,4910.0,singleFamily,2020
+Baton Rouge,275000,2637,acres,0.3,singleFamily,1973
+Baton Rouge,325000,3584,acres,0.4255,singleFamily,1980
+Baton Rouge,714000,3676,acres,0.64,singleFamily,1984
+Baton Rouge,955000,3010,acres,0.97,singleFamily,2020
+Baton Rouge,3595000,7994,acres,2.94,singleFamily,1995
+Baton Rouge,229000,2484,acres,0.42000000000000004,singleFamily,1972
+Baton Rouge,824000,3777,acres,0.25,singleFamily,1984
+Baton Rouge,799999,3427,acres,0.47000000000000003,singleFamily,2014
+Baton Rouge,225000,1692,squareFeet,5052.96,singleFamily,1984
+Baton Rouge,329000,1800,squareFeet,6098.4,singleFamily,2015
+Baton Rouge,12500000,13001,acres,6.0,singleFamily,2017
+Baton Rouge,300000,1733,squareFeet,8276.4,singleFamily,1995
+Baton Rouge,899000,3200,acres,0.99,singleFamily,1939
+Baton Rouge,266900,1945,squareFeet,261.36,townhome,2017
+Baton Rouge,220000,1424,squareFeet,6534.0,singleFamily,2000
+Baton Rouge,475000,3523,acres,0.58,singleFamily,1976
+Baton Rouge,675000,2804,squareFeet,10428.264,singleFamily,1949
+Baton Rouge,540000,2874,acres,0.6,singleFamily,1981
+Baton Rouge,565000,2180,squareFeet,7048.008,singleFamily,1940
+Baton Rouge,685000,2117,squareFeet,4356.0,singleFamily,2021
+Baton Rouge,369999,1639,acres,0.32999999999999996,singleFamily,1965
+Baton Rouge,129800,1250,squareFeet,718.74,singleFamily,1980
+Baton Rouge,14000000,25372,acres,12.5,singleFamily,2006
+Baton Rouge,250000,1672,squareFeet,6098.4,singleFamily,1988
+Baton Rouge,315000,1763,squareFeet,8276.4,singleFamily,2007
+Irving,849900,3060,acres,0.251,singleFamily,1983
+Irving,480000,2245,squareFeet,2552.616,singleFamily,2020
+Irving,525000,2982,acres,0.254,singleFamily,1966
+Irving,244900,1312,squareFeet,6098.4,singleFamily,1953
+Irving,310000,1639,squareFeet,10628.64,singleFamily,1958
+Irving,299000,1454,squareFeet,7013.16,singleFamily,1960
+Irving,265000,1574,acres,0.264,singleFamily,1950
+Irving,185000,1156,acres,4.35,townhome,1972
+Irving,469000,2438,acres,0.26899999999999996,singleFamily,1957
+Irving,350000,2140,squareFeet,8799.12,singleFamily,1977
+Irving,485000,2197,squareFeet,4312.44,singleFamily,1988
+Irving,556712,3031,squareFeet,8842.68,singleFamily,2025
+Irving,345000,1845,squareFeet,7230.96,singleFamily,1958
+Irving,500000,4263,acres,0.27299999999999996,singleFamily,1967
+Irving,299000,1550,squareFeet,8102.16,singleFamily,1957
+Irving,129757,485,acres,2.308,condo,1984
+Irving,575900,2596,squareFeet,5732.496,singleFamily,2025
+Irving,269000,1001,acres,3.217,condo,2001
+Irving,360000,1689,squareFeet,6403.32,singleFamily,1962
+Irving,755000,2463,squareFeet,8799.12,singleFamily,1985
+Irving,350000,1657,acres,0.262,singleFamily,1957
+Irving,459000,1893,squareFeet,4268.88,singleFamily,1992
+Irving,955000,4389,squareFeet,8712.0,singleFamily,2004
+Irving,289900,1048,squareFeet,7753.68,singleFamily,1959
+Irving,349999,1787,squareFeet,7579.44,singleFamily,1954
+Scottsdale,779995,1894,squareFeet,7826.0,singleFamily,1959
+Scottsdale,1700000,4044,acres,0.47068411386593206,singleFamily,1988
+Scottsdale,2299000,5233,acres,1.0771,singleFamily,2001
+Scottsdale,875000,2001,acres,0.25691000918273643,singleFamily,1985
+Scottsdale,2250000,3468,squareFeet,9158.0,singleFamily,2023
+Scottsdale,1299990,3070,acres,0.2751836547291093,singleFamily,1984
+Scottsdale,3500000,4142,acres,0.8450413223140496,singleFamily,2000
+Scottsdale,1950000,3492,acres,0.8584481175390266,singleFamily,2003
+Scottsdale,1100000,2105,squareFeet,10138.0,singleFamily,1980
+Scottsdale,1010000,2242,squareFeet,8361.0,singleFamily,1999
+Scottsdale,995000,2441,squareFeet,6900.0,singleFamily,1997
+Scottsdale,985000,2390,squareFeet,10031.0,singleFamily,1987
+Scottsdale,1650000,2328,squareFeet,7275.0,singleFamily,2000
+Scottsdale,799999,2020,squareFeet,9691.0,singleFamily,1984
+Scottsdale,3500000,3805,acres,1.0684,singleFamily,1999
+Scottsdale,1698888,3201,squareFeet,10212.0,singleFamily,1989
+Scottsdale,549990,1221,squareFeet,649.0,townhome,2000
+Scottsdale,575000,1369,squareFeet,7939.0,singleFamily,1980
+Scottsdale,2050000,3095,acres,0.32633149678604223,singleFamily,2022
+Scottsdale,440000,1614,squareFeet,703.0,townhome,1988
+Scottsdale,2400000,4281,acres,0.9356290174471993,singleFamily,1989
+Scottsdale,9995000,20211,acres,4.583,singleFamily,2000
+Scottsdale,988000,2121,squareFeet,8084.0,singleFamily,1985
+Scottsdale,1469000,3867,acres,0.26081267217630855,singleFamily,1999
+Scottsdale,945000,2370,squareFeet,7874.0,singleFamily,1994
+North Las Vegas,410000,1838,squareFeet,3049.2,singleFamily,2001
+North Las Vegas,374990,1298,squareFeet,4791.6,singleFamily,1994
+North Las Vegas,425000,1674,squareFeet,6098.4,singleFamily,2000
+North Las Vegas,575000,3804,squareFeet,6534.0,singleFamily,2006
+North Las Vegas,529900,1850,acres,0.26,singleFamily,2003
+North Las Vegas,395000,1470,squareFeet,5662.8,singleFamily,1994
+North Las Vegas,365000,1224,squareFeet,2178.0,townhome,2021
+North Las Vegas,469999,2321,squareFeet,5227.2,singleFamily,1995
+North Las Vegas,390000,1500,squareFeet,10454.4,singleFamily,1990
+North Las Vegas,539999,1741,squareFeet,5662.8,singleFamily,2022
+North Las Vegas,380000,1188,squareFeet,6098.4,singleFamily,2000
+North Las Vegas,420000,1650,squareFeet,6969.6,singleFamily,2003
+North Las Vegas,410000,1817,squareFeet,6098.4,singleFamily,1991
+North Las Vegas,640000,2494,squareFeet,7840.8,singleFamily,2023
+North Las Vegas,395000,1527,squareFeet,5227.2,singleFamily,1996
+North Las Vegas,340000,1420,squareFeet,5227.2,singleFamily,2004
+North Las Vegas,340000,1274,squareFeet,7840.8,singleFamily,1961
+North Las Vegas,435000,1740,squareFeet,5662.8,singleFamily,1992
+North Las Vegas,524900,1845,squareFeet,4791.6,singleFamily,2019
+North Las Vegas,599999,2212,squareFeet,6098.4,singleFamily,2006
+North Las Vegas,429900,1426,squareFeet,4791.6,singleFamily,2022
+North Las Vegas,475000,2060,squareFeet,5227.2,singleFamily,2017
+North Las Vegas,399000,1752,squareFeet,4791.6,singleFamily,2001
+North Las Vegas,345000,1447,squareFeet,7405.0,townhome,2022
+North Las Vegas,649900,3790,squareFeet,8276.4,singleFamily,2005
+Fremont,135000,1053,squareFeet,3920.4,singleFamily,1925
+Fremont,210000,1080,squareFeet,6490.44,singleFamily,1905
+Fremont,345000,1826,squareFeet,9147.6,singleFamily,2003
+Fremont,224900,1368,squareFeet,8276.4,singleFamily,1950
+Fremont,1590000,4752,acres,0.43,singleFamily,2007
+Fremont,280000,1215,squareFeet,7405.2,singleFamily,1975
+Fremont,220000,1064,squareFeet,7405.2,singleFamily,1972
+Fremont,785000,4856,acres,0.32,singleFamily,2013
+Fremont,189900,1231,squareFeet,7840.8,singleFamily,1900
+Fremont,325000,2272,squareFeet,7405.2,singleFamily,1971
+Fremont,1250000,5450,acres,0.32,singleFamily,1970
+Fremont,205000,1050,squareFeet,6969.6,singleFamily,1927
+Fremont,269700,1902,squareFeet,6098.4,townhome,2001
+Fremont,199900,1008,squareFeet,3484.8,singleFamily,1912
+Fremont,590000,4744,acres,1.0,singleFamily,1976
+Fremont,554900,4277,squareFeet,10018.8,singleFamily,1991
+Fremont,195000,1098,squareFeet,6795.36,singleFamily,1900
+Fremont,179500,2612,squareFeet,8712.0,singleFamily,1900
+Fremont,269900,1790,squareFeet,6098.4,singleFamily,1960
+Fremont,154900,704,squareFeet,5662.8,singleFamily,1920
+Fremont,279950,2242,squareFeet,6534.0,singleFamily,1900
+Fremont,305000,2312,squareFeet,7840.8,multiFamily,1950
+Fremont,259900,1171,squareFeet,7405.2,townhome,2003
+Boise City,439990,1041,squareFeet,6969.6,singleFamily,1985
+Boise City,540000,2710,acres,0.253,singleFamily,1952
+Boise City,365000,871,squareFeet,6098.4,singleFamily,1980
+Boise City,520000,1772,squareFeet,6098.4,singleFamily,2021
+Boise City,679800,2143,squareFeet,5662.8,singleFamily,2025
+Boise City,449000,1697,squareFeet,7840.8,singleFamily,1910
+Boise City,1125000,2342,acres,0.52,singleFamily,2020
+Boise City,399900,1414,squareFeet,7840.8,singleFamily,1977
+Boise City,1350000,4486,acres,0.27299999999999996,singleFamily,1972
+Boise City,419900,1119,squareFeet,4051.08,singleFamily,1948
+Boise City,2485000,7414,acres,0.33999999999999997,singleFamily,1890
+Boise City,750000,2040,acres,0.258,singleFamily,1956
+Boise City,1099000,3313,squareFeet,9583.2,singleFamily,1979
+Boise City,399900,1404,squareFeet,5140.08,singleFamily,2013
+Boise City,379900,1620,squareFeet,10585.08,singleFamily,1959
+Boise City,658500,2008,squareFeet,6098.4,singleFamily,1940
+Boise City,239900,1250,squareFeet,0.0,manufactured,2007
+Boise City,509000,2522,acres,0.27,singleFamily,1966
+Boise City,490000,1435,squareFeet,8712.0,singleFamily,1947
+Boise City,435000,1348,squareFeet,10454.4,singleFamily,1967
+Boise City,375000,1321,squareFeet,6098.4,singleFamily,2001
+Boise City,150000,1368,squareFeet,0.0,manufactured,1973
+Boise City,550000,1498,squareFeet,6098.4,singleFamily,1941
+Boise City,1195000,2940,squareFeet,6098.4,singleFamily,1910
+Boise City,579900,2174,squareFeet,8842.68,singleFamily,2005
+Richmond,1928800,2254,squareFeet,6534.0,singleFamily,1963
+Richmond,2348000,2597,squareFeet,4356.0,singleFamily,2025
+Richmond,2299000,4318,squareFeet,9147.6,singleFamily,1994
+Richmond,619000,1156,squareFeet,0.1,singleFamily,2020
+Richmond,1189000,1664,squareFeet,3920.4,singleFamily,1980
+Richmond,1399900,2152,squareFeet,3920.4,singleFamily,1988
+Richmond,1999000,2560,squareFeet,4356.0,singleFamily,1995
+Richmond,2799000,3482,squareFeet,9147.6,singleFamily,1984
+San Bernardino,464900,1392,squareFeet,6500.0,singleFamily,1925
+San Bernardino,770000,3064,acres,0.30991735537190085,singleFamily,1990
+San Bernardino,350000,885,squareFeet,5040.0,singleFamily,1952
+San Bernardino,499000,1700,acres,0.4820936639118457,singleFamily,1960
+San Bernardino,508000,1563,squareFeet,3600.0,singleFamily,1986
+San Bernardino,499000,1232,squareFeet,7232.0,singleFamily,1979
+San Bernardino,925000,3997,acres,0.3681129476584022,singleFamily,2006
+San Bernardino,399000,1052,squareFeet,8520.0,singleFamily,1905
+San Bernardino,450000,1084,squareFeet,8400.0,singleFamily,1947
+San Bernardino,550000,2698,squareFeet,10800.0,singleFamily,1990
+San Bernardino,499900,1300,squareFeet,6480.0,singleFamily,1958
+San Bernardino,470000,1813,squareFeet,7200.0,singleFamily,1955
+San Bernardino,225000,1680,squareFeet,1680.0,manufactured,1987
+San Bernardino,619900,1803,squareFeet,9060.0,singleFamily,1957
+San Bernardino,497999,1534,squareFeet,5575.0,singleFamily,1949
+San Bernardino,589999,1940,squareFeet,9078.0,singleFamily,1961
+San Bernardino,359000,1800,squareFeet,9150.0,singleFamily,1914
+San Bernardino,585000,2623,squareFeet,7245.0,singleFamily,1963
+San Bernardino,849900,2336,acres,0.5232552800734619,singleFamily,1950
+San Bernardino,549990,2056,squareFeet,8840.0,singleFamily,1961
+San Bernardino,525000,1700,squareFeet,7800.0,singleFamily,1955
+San Bernardino,599900,2196,squareFeet,10366.0,singleFamily,1987
+San Bernardino,556000,1474,acres,0.5853994490358126,singleFamily,1957
+San Bernardino,699000,2063,squareFeet,8777.0,singleFamily,2004
+San Bernardino,190000,550,squareFeet,4620.0,singleFamily,1951
+Birmingham,549900,1997,acres,0.48,singleFamily,2014
+Birmingham,535000,3516,acres,0.5,singleFamily,1986
+Birmingham,628000,3387,acres,0.27,singleFamily,2005
+Birmingham,417000,2008,acres,0.26,singleFamily,1977
+Birmingham,399000,1594,squareFeet,7405.2,singleFamily,1930
+Birmingham,239900,1709,acres,0.52,singleFamily,1975
+Birmingham,525000,3171,acres,0.6599999999999999,singleFamily,1890
+Birmingham,499900,1492,squareFeet,6534.0,singleFamily,1926
+Birmingham,369000,1344,squareFeet,6969.6,singleFamily,1925
+Birmingham,95900,1377,squareFeet,9147.6,singleFamily,1950
+Birmingham,635000,3576,acres,1.3,singleFamily,1986
+Birmingham,124900,1196,squareFeet,7405.2,singleFamily,1930
+Birmingham,47000,1104,acres,0.25,singleFamily,1940
+Birmingham,109900,1409,acres,0.25,singleFamily,1941
+Birmingham,495000,1628,squareFeet,6969.6,singleFamily,1939
+Birmingham,2599000,9714,acres,1.7,singleFamily,2006
+Birmingham,54900,1096,squareFeet,8712.0,singleFamily,1930
+Birmingham,399900,1614,squareFeet,10018.8,singleFamily,1972
+Birmingham,140000,1326,squareFeet,6969.6,singleFamily,1949
+Birmingham,234900,1680,squareFeet,8058.6,singleFamily,1940
+Birmingham,1499000,5482,acres,1.03,singleFamily,2005
+Birmingham,399900,1823,acres,0.27999999999999997,singleFamily,1956
+Birmingham,114900,1458,squareFeet,9147.6,singleFamily,1929
+Birmingham,130000,1290,acres,0.52,singleFamily,1936
+Birmingham,91000,1914,squareFeet,6969.6,singleFamily,1930
+Spokane,395000,1614,squareFeet,6534.0,singleFamily,1890
+Spokane,1360000,4612,acres,0.53,singleFamily,2020
+Spokane,450000,1568,acres,0.43,singleFamily,2024
+Spokane,750000,4060,squareFeet,7405.2,singleFamily,1999
+Spokane,1335000,2839,acres,0.52,singleFamily,2020
+Spokane,675000,2576,acres,0.25,singleFamily,1906
+Spokane,765000,2650,acres,0.4,singleFamily,1906
+Spokane,575000,1536,acres,2.8,singleFamily,1974
+Spokane,475000,2288,squareFeet,10454.4,singleFamily,1955
+Spokane,830000,3647,squareFeet,6534.0,singleFamily,1955
+Spokane,275000,1626,squareFeet,7305.012,singleFamily,1978
+Spokane,455000,2454,acres,0.32999999999999996,singleFamily,1955
+Spokane,349900,,squareFeet,10454.4,singleFamily,1926
+Spokane,319000,1400,squareFeet,7405.2,singleFamily,1905
+Spokane,299900,2900,acres,0.26,singleFamily,1931
+Spokane,745000,4000,acres,0.35,singleFamily,2002
+Spokane,525000,1814,squareFeet,6499.152,singleFamily,1908
+Spokane,499900,2928,squareFeet,10018.8,singleFamily,1970
+Spokane,374999,2409,squareFeet,6534.0,singleFamily,1910
+Spokane,275000,1584,squareFeet,5662.8,singleFamily,1928
+Spokane,305900,1456,squareFeet,5662.8,singleFamily,1930
+Spokane,549900,3400,squareFeet,10454.4,singleFamily,1964
+Spokane,1200000,2240,acres,12.24,singleFamily,2020
+Spokane,375000,2268,squareFeet,8712.0,singleFamily,1958
+Rochester,299999,2000,acres,0.76,singleFamily,1975
+Rochester,174999,972,squareFeet,4800.312,singleFamily,1930
+Rochester,269000,1625,acres,0.25,singleFamily,1950
+Rochester,299900,1794,acres,0.65,singleFamily,1974
+Rochester,325000,1978,squareFeet,10018.8,singleFamily,1996
+Rochester,199900,1480,squareFeet,5227.2,singleFamily,1929
+Rochester,495000,2596,acres,0.3,singleFamily,1930
+Rochester,164900,1319,squareFeet,6098.4,singleFamily,1988
+Rochester,159900,1200,squareFeet,7183.044,singleFamily,1941
+Rochester,319999,1441,acres,0.264,singleFamily,1952
+Rochester,159900,1356,acres,0.44000000000000006,singleFamily,1930
+Rochester,199900,1561,squareFeet,9583.2,singleFamily,1960
+Rochester,219900,1784,squareFeet,5227.2,singleFamily,1940
+Rochester,200000,1776,squareFeet,4791.6,singleFamily,1920
+Rochester,259900,1929,squareFeet,10018.8,singleFamily,1940
+Rochester,249900,1273,acres,0.2763,singleFamily,1989
+Rochester,299900,1455,squareFeet,6098.4,singleFamily,1920
+Rochester,259900,1546,acres,0.4,singleFamily,1938
+Rochester,199900,1472,acres,0.27999999999999997,singleFamily,1950
+Rochester,174900,1086,squareFeet,3049.2,singleFamily,1925
+Rochester,275000,1734,acres,0.3301,singleFamily,1985
+Rochester,179900,1444,acres,0.38189999999999996,singleFamily,1952
+Rochester,174900,1346,squareFeet,7405.2,singleFamily,1939
+Rochester,159900,1224,squareFeet,5000.688,singleFamily,1946
+Rochester,274900,1890,squareFeet,10497.96,singleFamily,1979
+Des Moines,249999,838,squareFeet,7230.96,singleFamily,1992
+Des Moines,399000,2137,acres,0.44899999999999995,singleFamily,1950
+Des Moines,240000,1156,squareFeet,7013.16,singleFamily,1922
+Des Moines,450000,2156,acres,0.651,singleFamily,1993
+Des Moines,270000,1498,acres,0.301,singleFamily,1941
+Des Moines,250000,1263,squareFeet,6969.6,singleFamily,1947
+Des Moines,585000,2728,squareFeet,10802.88,singleFamily,1920
+Des Moines,354000,1426,acres,0.253,singleFamily,1975
+Des Moines,395000,1869,acres,0.517,singleFamily,1956
+Des Moines,249900,1248,squareFeet,10454.4,singleFamily,1962
+Des Moines,185000,770,squareFeet,5357.88,singleFamily,1918
+Des Moines,299900,1396,squareFeet,9583.2,singleFamily,1939
+Des Moines,265000,982,acres,0.275,singleFamily,1992
+Des Moines,225000,1960,acres,0.311,singleFamily,1926
+Des Moines,425000,2223,acres,0.525,singleFamily,1954
+Des Moines,299000,1448,squareFeet,7056.72,singleFamily,1938
+Des Moines,250000,1082,squareFeet,6708.24,singleFamily,1990
+Des Moines,199900,928,squareFeet,10323.72,singleFamily,1958
+Des Moines,205000,1056,squareFeet,8102.16,singleFamily,1954
+Des Moines,205000,1565,squareFeet,9365.4,singleFamily,1895
+Des Moines,185000,3964,acres,0.377,singleFamily,1891
+Des Moines,105000,840,squareFeet,7927.92,singleFamily,1932
+Des Moines,164900,1038,squareFeet,8712.0,singleFamily,1904
+Des Moines,150000,1433,squareFeet,6664.68,singleFamily,1903
+Modesto,620000,2637,squareFeet,5000.688,singleFamily,2006
+Modesto,385000,1302,squareFeet,6699.528,singleFamily,1978
+Modesto,445000,1515,squareFeet,3432.528,singleFamily,1989
+Modesto,805000,3351,squareFeet,8982.072,singleFamily,1982
+Modesto,390000,1300,squareFeet,9147.6,singleFamily,1965
+Modesto,440000,1666,squareFeet,4939.704,singleFamily,1985
+Modesto,435000,1314,squareFeet,7801.596,singleFamily,1998
+Modesto,600000,1720,squareFeet,6499.152,singleFamily,1977
+Modesto,549900,1719,squareFeet,7522.812,singleFamily,1972
+Modesto,675000,1939,squareFeet,9095.328,singleFamily,1957
+Modesto,355000,1516,squareFeet,5401.44,singleFamily,1997
+Modesto,469900,1782,squareFeet,6298.776,singleFamily,1961
+Modesto,410000,1123,squareFeet,6599.34,singleFamily,1967
+Modesto,699000,2274,squareFeet,10001.376,singleFamily,1974
+Modesto,749000,2958,acres,1.61,singleFamily,1973
+Modesto,199950,1270,squareFeet,7749.324,multiFamily,1920
+Modesto,429000,1381,squareFeet,5980.788,singleFamily,1976
+Modesto,410000,1366,squareFeet,6599.34,singleFamily,1962
+Modesto,387000,1187,squareFeet,7501.032,singleFamily,1949
+Modesto,449000,1789,squareFeet,5000.688,singleFamily,1992
+Modesto,829000,2832,squareFeet,8772.984,singleFamily,1983
+Modesto,385000,976,squareFeet,6372.828,singleFamily,1948
+Modesto,439000,1749,squareFeet,5998.212,singleFamily,1983
+Fayetteville,189900,1731,squareFeet,10454.4,singleFamily,1976
+Fayetteville,270000,1771,acres,0.35,singleFamily,1987
+Fayetteville,395000,2625,acres,0.39,singleFamily,2016
+Fayetteville,165000,1283,acres,0.6,singleFamily,1963
+Fayetteville,215000,1146,acres,0.33999999999999997,singleFamily,1997
+Fayetteville,205000,1152,acres,0.49000000000000005,singleFamily,1993
+Fayetteville,245000,1188,acres,6.4,singleFamily,2007
+Fayetteville,119900,1342,acres,0.43,singleFamily,1981
+Fayetteville,285000,2156,acres,0.27,singleFamily,1991
+Fayetteville,179999,1050,squareFeet,10018.8,singleFamily,1966
+Fayetteville,185000,1316,acres,0.33999999999999997,singleFamily,1952
+Fayetteville,425000,2133,squareFeet,10018.8,singleFamily,1958
+Fayetteville,274900,2057,acres,0.4,singleFamily,2004
+Fayetteville,399999,2682,acres,0.39,singleFamily,2000
+Fayetteville,184900,1261,acres,0.29,singleFamily,1964
+Fayetteville,220000,1296,acres,8.78,singleFamily,1984
+Fayetteville,210000,1600,acres,0.26,singleFamily,1947
+Fayetteville,490000,2705,acres,3.66,singleFamily,2024
+Tacoma,1084000,3466,squareFeet,8999.496,singleFamily,1949
+Tacoma,449988,1028,squareFeet,8398.368,singleFamily,1954
+Tacoma,689000,2169,squareFeet,5998.212,singleFamily,1950
+Tacoma,329000,1828,squareFeet,3698.244,singleFamily,1910
+Tacoma,750000,2100,squareFeet,5201.064,singleFamily,1888
+Tacoma,300000,1279,squareFeet,5998.212,singleFamily,1958
+Tacoma,465000,1452,squareFeet,6202.944,singleFamily,2000
+Tacoma,424995,2450,squareFeet,5850.108,singleFamily,1910
+Tacoma,859900,3083,squareFeet,10188.684,singleFamily,1998
+Tacoma,390000,1640,squareFeet,5710.716,singleFamily,1950
+Tacoma,560000,1320,squareFeet,7400.844,singleFamily,1984
+Tacoma,699950,1085,acres,0.4734,singleFamily,1940
+Tacoma,20000,0,squareFeet,5218.488,land,
+Tacoma,395000,693,squareFeet,5998.212,singleFamily,1942
+Tacoma,330000,1480,squareFeet,5850.108,singleFamily,1902
+Tacoma,2350000,5860,squareFeet,6503.508,multiFamily,2022
+Tacoma,550000,2280,squareFeet,4917.924,singleFamily,1927
+Tacoma,1395000,3130,acres,0.3375,singleFamily,1986
+Tacoma,525000,1470,acres,0.6348,singleFamily,1960
+Tacoma,500000,1390,squareFeet,5998.212,singleFamily,1988
+Tacoma,479900,2676,squareFeet,5401.44,singleFamily,1927
+Tacoma,455000,1721,squareFeet,6250.86,singleFamily,1918
+Tacoma,689950,2485,squareFeet,4874.364,singleFamily,1938
+Tacoma,425000,1180,squareFeet,3001.284,singleFamily,1896
+Tacoma,375000,1902,squareFeet,6285.708,singleFamily,2008
+Oxnard,6850000,3727,squareFeet,9583.0,singleFamily,2013
+Oxnard,649999,1454,squareFeet,6098.0,singleFamily,1971
+Oxnard,475000,1360,squareFeet,1360.0,manufactured,1983
+Oxnard,650000,1650,squareFeet,5227.0,singleFamily,1976
+Oxnard,579900,1160,squareFeet,4791.0,singleFamily,1948
+Oxnard,549900,1176,squareFeet,5000.0,singleFamily,1950
+Oxnard,775000,1548,squareFeet,5662.0,singleFamily,1969
+Oxnard,615000,1032,squareFeet,5662.8,singleFamily,1952
+Oxnard,789500,1570,squareFeet,6080.0,singleFamily,1949
+Oxnard,699900,1333,squareFeet,6098.0,singleFamily,1948
+Oxnard,889000,1612,squareFeet,10018.0,singleFamily,1987
+Oxnard,550000,1124,squareFeet,3049.0,condo,1973
+Oxnard,729999,1489,squareFeet,7157.0,singleFamily,1980
+Oxnard,2690000,3131,squareFeet,4080.0,singleFamily,2004
+Oxnard,600000,1519,squareFeet,1519.0,townhome,2007
+Oxnard,650000,1465,squareFeet,4336.0,singleFamily,1950
+Oxnard,949000,2578,squareFeet,8138.0,singleFamily,1956
+Oxnard,3599995,4766,squareFeet,4791.0,singleFamily,1972
+Oxnard,565000,627,squareFeet,7000.0,singleFamily,1925
+Oxnard,524000,1019,squareFeet,871.2,condo,1973
+Fontana,719000,1981,squareFeet,7200.0,singleFamily,1990
+Fontana,350000,800,squareFeet,2000.0,singleFamily,1986
+Fontana,450000,1354,squareFeet,8100.0,singleFamily,1962
+Fontana,650000,1447,squareFeet,5183.0,singleFamily,1987
+Fontana,595000,1227,squareFeet,8400.0,singleFamily,1949
+Fontana,616000,1194,squareFeet,7320.0,singleFamily,1952
+Fontana,299990,1116,squareFeet,1116.0,condo,1981
+Fontana,870000,3062,squareFeet,6300.0,singleFamily,2005
+Fontana,630000,1913,acres,0.26400367309458217,singleFamily,1999
+Fontana,1375000,3682,squareFeet,7775.0,multiFamily,2025
+Fontana,425000,1329,squareFeet,9300.0,singleFamily,1954
+Fontana,630000,1453,squareFeet,8640.0,singleFamily,1952
+Fontana,605000,1295,squareFeet,8316.0,singleFamily,1956
+Fontana,575000,1172,squareFeet,4800.0,singleFamily,1988
+Fontana,590000,1263,squareFeet,7200.0,singleFamily,1984
+Fontana,569999,1338,squareFeet,3600.0,singleFamily,1986
+Fontana,765000,1955,squareFeet,4913.0,singleFamily,1998
+Fontana,330000,1259,squareFeet,1259.0,condo,1985
+Fontana,520000,1003,squareFeet,3600.0,singleFamily,1986
+Fontana,700000,2292,squareFeet,4015.0,singleFamily,2015
+Fontana,750000,913,acres,0.4797979797979798,singleFamily,1949
+Fontana,599900,1963,squareFeet,1330.0,condo,2022
+Fontana,710000,2202,squareFeet,6000.0,singleFamily,1998
+Fontana,579000,1567,squareFeet,4100.0,singleFamily,1988
+Fontana,549000,1280,squareFeet,3800.0,singleFamily,1988
+Columbus,350000,2350,acres,0.45,singleFamily,1959
+Columbus,350000,1900,squareFeet,6534.0,singleFamily,1999
+Columbus,184900,888,squareFeet,8276.4,singleFamily,1957
+Columbus,689900,2207,squareFeet,10018.8,singleFamily,1949
+Columbus,375000,1534,squareFeet,7405.2,singleFamily,1979
+Columbus,315000,1344,acres,0.38,singleFamily,1986
+Columbus,325000,1435,squareFeet,6534.0,singleFamily,1987
+Columbus,200000,1500,squareFeet,6534.0,singleFamily,1957
+Columbus,315000,2132,squareFeet,5662.8,singleFamily,2003
+Columbus,1195000,4139,acres,0.74,singleFamily,1920
+Columbus,369900,1540,squareFeet,2613.6,singleFamily,1900
+Columbus,197600,1787,squareFeet,6969.6,singleFamily,1999
+Columbus,225000,1064,squareFeet,871.2,condo,1988
+Columbus,285000,1434,squareFeet,6969.6,singleFamily,2004
+Columbus,211900,1819,squareFeet,5227.2,singleFamily,1942
+Columbus,335000,1020,squareFeet,6098.4,singleFamily,1942
+Columbus,239900,979,squareFeet,5662.8,singleFamily,1953
+Columbus,425000,1600,squareFeet,4356.0,singleFamily,2019
+Columbus,319900,1950,acres,0.35,singleFamily,1956
+Columbus,294900,2316,squareFeet,10454.4,singleFamily,1978
+Columbus,348900,1535,squareFeet,4791.6,singleFamily,1930
+Columbus,399900,1853,squareFeet,7405.2,singleFamily,1993
+Columbus,479900,1720,squareFeet,3484.8,singleFamily,1920
+Columbus,415000,1027,squareFeet,5227.2,singleFamily,1947
+Columbus,519999,2755,squareFeet,8276.4,singleFamily,2000
+Montgomery,134500,2469,acres,0.27999999999999997,singleFamily,1940
+Montgomery,229900,2011,acres,0.3,singleFamily,1974
+Montgomery,199900,1513,acres,0.31,singleFamily,1991
+Montgomery,350000,3516,acres,1.0,singleFamily,1985
+Montgomery,134000,1532,acres,0.36,singleFamily,1954
+Montgomery,175900,1831,acres,0.29,singleFamily,1963
+Montgomery,59900,1165,squareFeet,8712.0,singleFamily,1950
+Montgomery,89500,2152,squareFeet,9147.6,singleFamily,1966
+Montgomery,1100000,4955,acres,0.45,singleFamily,2003
+Montgomery,375000,2692,acres,0.33999999999999997,singleFamily,1995
+Montgomery,69000,4798,acres,0.27,singleFamily,1950
+Montgomery,255000,1784,squareFeet,10234.0,singleFamily,1992
+Montgomery,299900,2015,acres,0.35,singleFamily,1997
+Montgomery,212000,1446,squareFeet,4472.0,singleFamily,2008
+Montgomery,215000,1478,squareFeet,9147.6,singleFamily,2008
+Montgomery,104900,2149,acres,0.25,singleFamily,1953
+Montgomery,365000,2437,acres,0.8400000000000001,singleFamily,1980
+Montgomery,315000,2203,acres,0.27,singleFamily,1997
+Montgomery,154900,1687,acres,0.31,singleFamily,1986
+Montgomery,179000,2462,acres,0.25,singleFamily,1940
+Montgomery,459900,2873,acres,0.48,singleFamily,1997
+Montgomery,350000,3674,acres,1.0,singleFamily,2003
+Montgomery,174900,2300,acres,9540.0,singleFamily,1976
+Montgomery,269900,1847,squareFeet,10454.4,singleFamily,2002
+Montgomery,206000,2198,acres,0.37,singleFamily,1966
+Moreno Valley,498000,1514,squareFeet,7841.0,singleFamily,1990
+Moreno Valley,580000,1434,squareFeet,7405.0,singleFamily,1977
+Moreno Valley,399900,1612,squareFeet,7405.0,singleFamily,1984
+Moreno Valley,499000,1534,squareFeet,7841.0,singleFamily,1980
+Moreno Valley,489999,1008,squareFeet,6534.0,singleFamily,1957
+Moreno Valley,550000,1949,squareFeet,7405.2,singleFamily,1984
+Moreno Valley,375000,952,squareFeet,7405.0,singleFamily,1956
+Moreno Valley,555900,2233,squareFeet,6970.0,singleFamily,1991
+Moreno Valley,549800,1707,squareFeet,6970.0,singleFamily,1989
+Moreno Valley,764999,3474,acres,0.37998163452708905,singleFamily,2007
+Moreno Valley,525000,2073,squareFeet,7841.0,singleFamily,1985
+Moreno Valley,399900,400,acres,0.46999540863177225,singleFamily,1948
+Moreno Valley,547000,1316,squareFeet,7405.0,singleFamily,1985
+Moreno Valley,730000,1817,acres,0.8600091827364554,singleFamily,1978
+Moreno Valley,519000,1567,squareFeet,7405.0,singleFamily,1986
+Moreno Valley,539000,1901,squareFeet,7841.0,singleFamily,1996
+Moreno Valley,539999,1588,squareFeet,6970.0,singleFamily,1988
+Moreno Valley,499900,1635,squareFeet,7405.0,singleFamily,2002
+Moreno Valley,539000,1314,squareFeet,4792.0,singleFamily,1984
+Moreno Valley,588000,2312,squareFeet,2880.0,singleFamily,2021
+Moreno Valley,795000,2278,acres,0.3,singleFamily,1987
+Moreno Valley,585000,1707,squareFeet,7405.0,singleFamily,1988
+Moreno Valley,749900,2280,acres,1.84,singleFamily,1981
+Moreno Valley,449000,1165,squareFeet,8276.0,singleFamily,1983
+Shreveport,194000,1044,squareFeet,8363.52,singleFamily,1967
+Shreveport,140000,1214,acres,0.304,singleFamily,1959
+Shreveport,274500,2816,squareFeet,10802.88,singleFamily,1937
+Shreveport,275000,2726,acres,0.454,singleFamily,2003
+Shreveport,225000,1947,squareFeet,9452.52,singleFamily,1960
+Shreveport,259900,2400,acres,0.31,singleFamily,1955
+Shreveport,699000,4009,acres,0.39310000000000006,singleFamily,1985
+Shreveport,360000,2411,squareFeet,8450.64,singleFamily,2011
+Shreveport,189900,1437,squareFeet,8015.04,singleFamily,1950
+Shreveport,199900,1495,squareFeet,6969.6,singleFamily,2014
+Shreveport,190000,1723,acres,0.305,singleFamily,2017
+Shreveport,280000,2081,squareFeet,10846.44,singleFamily,1981
+Shreveport,174900,2040,squareFeet,10018.8,singleFamily,1950
+Shreveport,9900,1034,squareFeet,6577.56,singleFamily,1950
+Shreveport,359900,2291,squareFeet,10323.72,singleFamily,2010
+Shreveport,259000,1865,squareFeet,10497.96,singleFamily,1987
+Shreveport,235000,1943,acres,1.974,singleFamily,1973
+Shreveport,1485000,4468,acres,0.5870000000000001,singleFamily,2025
+Shreveport,169900,2140,squareFeet,8015.04,singleFamily,1957
+Shreveport,196500,1709,acres,0.262,singleFamily,1970
+Shreveport,130000,2064,squareFeet,6708.24,singleFamily,1954
+Shreveport,259950,1613,acres,0.45999999999999996,singleFamily,2006
+Shreveport,1599250,6039,acres,4.505,singleFamily,1971
+Shreveport,430000,3910,acres,0.78,singleFamily,1967
+Shreveport,195000,2279,acres,0.25,singleFamily,1958
+Aurora,2488000,,squareFeet,6195.0476,singleFamily,
+Aurora,3529000,,squareFeet,0.237,singleFamily,
+Aurora,1788000,,squareFeet,4736.12,singleFamily,
+Aurora,1249000,,squareFeet,3068.4896,townhome,
+Aurora,998888,1732,squareFeet,3343.61,singleFamily,1994
+Aurora,1349900,,squareFeet,4628.2686,singleFamily,
+Aurora,2799880,,squareFeet,8548.5022,singleFamily,
+Aurora,3360000,,acres,2.7548,singleFamily,
+Aurora,5900900,,squareFeet,1.02,singleFamily,
+Aurora,13900000,,acres,2.1264,singleFamily,
+Aurora,13800000,,squareFeet,36.29,singleFamily,
+Aurora,939900,,squareFeet,3450.0,townhome,
+Aurora,2890000,,acres,0.3000440771349862,singleFamily,
+Aurora,1748000,,squareFeet,5070.2,singleFamily,
+Aurora,2625000,,squareFeet,7500.0,singleFamily,
+Aurora,1668800,,squareFeet,4620.0,singleFamily,
+Aurora,1799000,,squareFeet,8322.0,singleFamily,
+Aurora,985000,,squareFeet,2507.0,singleFamily,
+Aurora,4899000,,acres,0.953452803030303,singleFamily,
+Aurora,915000,,squareFeet,4320.0,singleFamily,
+Aurora,1190000,,squareFeet,4003.3966,singleFamily,
+Yonkers,550000,1734,squareFeet,3920.0,townhome,1968
+Yonkers,750000,1970,squareFeet,7841.0,singleFamily,1928
+Yonkers,149999,956,acres,0.5600091827364555,condo,1949
+Yonkers,419990,1792,squareFeet,1307.0,singleFamily,1896
+Yonkers,605000,1620,squareFeet,4356.0,singleFamily,1949
+Yonkers,849000,3444,acres,0.28000459136822775,singleFamily,1919
+Yonkers,880000,3095,squareFeet,5663.0,singleFamily,1963
+Yonkers,685000,1474,squareFeet,4792.0,singleFamily,1953
+Yonkers,669000,1668,squareFeet,3920.0,singleFamily,1969
+Yonkers,435000,789,acres,0.6644628099173554,condo,1989
+Yonkers,599000,1014,squareFeet,9583.0,singleFamily,1952
+Yonkers,499000,1200,squareFeet,1742.0,condo,1970
+Yonkers,769000,1843,squareFeet,4792.0,multiFamily,1910
+Yonkers,440000,1082,squareFeet,2178.0,singleFamily,1902
+Yonkers,550000,1920,squareFeet,1742.0,multiFamily,1962
+Yonkers,789000,1448,squareFeet,4792.0,singleFamily,1925
+Akron,285000,2190,squareFeet,8398.368,singleFamily,1932
+Akron,189900,1403,acres,0.631,singleFamily,1946
+Akron,199900,1110,acres,0.41319999999999996,singleFamily,1931
+Akron,199900,1116,squareFeet,10001.376,singleFamily,1946
+Akron,225000,1846,squareFeet,10798.524,singleFamily,1947
+Akron,375000,2986,acres,0.303,singleFamily,1955
+Akron,234900,1633,squareFeet,6599.34,singleFamily,1961
+Akron,165000,1195,squareFeet,8803.476,singleFamily,1938
+Akron,140000,1440,acres,0.3402,multiFamily,1978
+Akron,439900,3116,acres,0.55,singleFamily,1990
+Akron,141000,1811,squareFeet,5488.56,singleFamily,1911
+Akron,180000,1663,squareFeet,7021.872,singleFamily,1939
+Akron,164999,1296,acres,0.8988,singleFamily,1935
+Akron,249900,1440,acres,1.07,singleFamily,1966
+Akron,135000,737,squareFeet,10798.524,singleFamily,1955
+Akron,350000,2770,squareFeet,7000.092,singleFamily,1929
+Akron,249900,,squareFeet,3998.808,singleFamily,1941
+Akron,249900,1770,acres,0.78,singleFamily,1953
+Akron,219900,1008,acres,1.4,singleFamily,1962
+Akron,174900,1458,acres,0.6818,singleFamily,1955
+Akron,750000,2904,acres,0.491,singleFamily,1914
+Akron,279000,1565,acres,0.2722,singleFamily,1958
+Akron,635000,4071,acres,0.7458,singleFamily,1950
+Akron,375000,2138,acres,1.88,singleFamily,1965
+Akron,235000,2026,squareFeet,8646.66,singleFamily,1929
+Huntington Beach,1279000,1932,squareFeet,4200.0,singleFamily,1979
+Huntington Beach,2150000,2236,squareFeet,10368.0,singleFamily,1975
+Huntington Beach,1699000,2800,squareFeet,4898.0,singleFamily,1966
+Huntington Beach,1345000,1949,squareFeet,6000.0,singleFamily,1962
+Huntington Beach,1349999,1416,squareFeet,6030.0,singleFamily,1969
+Huntington Beach,549999,1272,acres,2.1868,condo,1980
+Huntington Beach,335000,1560,squareFeet,2969.0,manufactured,2003
+Huntington Beach,529999,1254,squareFeet,814.0,singleFamily,1964
+Huntington Beach,1799000,2114,squareFeet,6000.0,singleFamily,1968
+Huntington Beach,1588000,1905,squareFeet,6000.0,singleFamily,1964
+Huntington Beach,1149000,1232,squareFeet,7000.0,singleFamily,1962
+Huntington Beach,2350000,3112,squareFeet,6120.0,singleFamily,1969
+Huntington Beach,1750000,2413,squareFeet,2938.0,singleFamily,1979
+Huntington Beach,1385000,1484,squareFeet,6360.0,singleFamily,1959
+Huntington Beach,1175000,2150,acres,2.3936,singleFamily,1987
+Huntington Beach,1385000,2049,squareFeet,6000.0,singleFamily,1965
+Huntington Beach,2349000,2057,squareFeet,2581.0,singleFamily,1975
+Huntington Beach,1225000,1127,squareFeet,6020.0,singleFamily,1960
+Huntington Beach,1698000,1890,squareFeet,1503.0,singleFamily,1974
+Huntington Beach,1799000,2242,squareFeet,6000.0,singleFamily,1967
+Huntington Beach,1399000,1681,squareFeet,6120.0,singleFamily,1965
+Huntington Beach,925000,781,acres,1.8714,condo,1987
+Huntington Beach,1995000,2561,squareFeet,3144.0,singleFamily,2003
+Little Rock,389900,2950,acres,0.25,singleFamily,1995
+Little Rock,59900,1470,squareFeet,9147.6,singleFamily,1974
+Little Rock,215000,1754,acres,5.24,singleFamily,1999
+Little Rock,189000,1959,acres,1.14,singleFamily,1950
+Little Rock,395000,2169,squareFeet,7840.8,singleFamily,1959
+Little Rock,1695000,3489,acres,21.0,singleFamily,2016
+Little Rock,529000,3509,acres,0.27,singleFamily,1996
+Little Rock,375000,2149,squareFeet,8712.0,singleFamily,1991
+Little Rock,395000,2555,squareFeet,6969.6,singleFamily,1925
+Little Rock,459900,2508,squareFeet,10454.4,singleFamily,2008
+Little Rock,135000,1296,squareFeet,6969.6,singleFamily,2015
+Little Rock,600000,2725,squareFeet,1306.8,singleFamily,2021
+Little Rock,3500000,8830,acres,0.96,singleFamily,2002
+Little Rock,125000,1136,squareFeet,6969.6,singleFamily,1986
+Little Rock,269000,1806,squareFeet,10454.4,singleFamily,1960
+Little Rock,318900,1752,squareFeet,3484.8,townhome,2017
+Little Rock,105000,1040,squareFeet,0.0,singleFamily,1954
+Little Rock,509900,3382,acres,0.29,singleFamily,1995
+Little Rock,438800,2484,acres,5.88,singleFamily,1972
+Little Rock,210000,1958,acres,0.25,singleFamily,1964
+Little Rock,435000,1772,squareFeet,0.0,singleFamily,1928
+Little Rock,177000,1265,squareFeet,8276.4,singleFamily,2010
+Little Rock,160000,1403,squareFeet,7840.8,singleFamily,1965
+Little Rock,173900,1179,squareFeet,8276.4,singleFamily,1964
+Amarillo,2299000,6113,acres,0.9,singleFamily,2017
+Amarillo,210000,1848,acres,2.75,singleFamily,1995
+Amarillo,699000,5785,acres,3.92,singleFamily,1998
+Amarillo,360000,3604,acres,2.5,singleFamily,1997
+Amarillo,415000,3460,acres,0.26,singleFamily,1960
+Amarillo,685000,2365,acres,5.0,singleFamily,1998
+Amarillo,219900,2052,squareFeet,5227.2,singleFamily,1978
+Amarillo,515000,2392,acres,1.0,singleFamily,2025
+Amarillo,337000,2296,acres,1.0,singleFamily,1979
+Amarillo,415000,2639,squareFeet,9583.2,singleFamily,2003
+Amarillo,480000,2733,acres,1.0,singleFamily,2021
+Amarillo,230000,2488,acres,1.06,singleFamily,2003
+Amarillo,224000,1436,squareFeet,6534.0,singleFamily,2011
+Amarillo,225000,1258,acres,0.64,singleFamily,1961
+
+
